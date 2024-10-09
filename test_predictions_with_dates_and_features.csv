@@ -1,0 +1,1525 @@
+created_date,specialty,facility,position_opened_next_x_weeks,xgboost_predicted_label,xgboost_predicted_proba
+2024-07-01 07:01,med/surgery,CHI Health Creighton University Medical Center - Bergan Mercy,1,0,0.43849352
+2024-07-01 08:40,Telemetry,Salem Hospital(NSMC),1,1,0.8436211
+2024-07-01 08:40,Telemetry,Salem Hospital(NSMC),1,1,0.8436211
+2024-07-01 08:40,Other,Salem Hospital(NSMC),1,1,0.732403
+2024-07-01 08:40,Telemetry,Salem Hospital(NSMC),1,1,0.8436211
+2024-07-01 08:40,Telemetry,Salem Hospital(NSMC),1,1,0.8436211
+2024-07-01 08:40,Stepdown,Salem Hospital(NSMC),0,1,0.55310786
+2024-07-01 08:40,Stepdown,Salem Hospital(NSMC),0,1,0.55310786
+2024-07-01 08:40,Telemetry,Salem Hospital(NSMC),1,1,0.8436211
+2024-07-01 08:40,Telemetry,Salem Hospital(NSMC),1,1,0.8436211
+2024-07-01 08:40,Telemetry,Salem Hospital(NSMC),1,1,0.8436211
+2024-07-01 08:40,Other,Salem Hospital(NSMC),1,1,0.732403
+2024-07-01 08:41,med/surgery,TNNAS ST West Hospital,1,0,0.2660105
+2024-07-01 08:41,med/surgery,Massachusetts General Hospital(MGH),1,1,0.8121513
+2024-07-01 13:20,Stepdown,UNC Medical Center,1,1,0.8491929
+2024-07-01 14:13,ICU/PCU,Mission Hospital,1,1,0.72294796
+2024-07-01 14:14,ER,Albany Medical Center ,1,1,0.8534824
+2024-07-01 14:14,ICU/PCU,Jewish Hospital,1,1,0.89013207
+2024-07-01 14:14,med/surgery,Albany Medical Center ,1,1,0.92034924
+2024-07-01 14:14,ICU/PCU,Albany Medical Center ,1,1,0.7858571
+2024-07-01 14:15,ER,Albany Medical Center ,1,1,0.8534824
+2024-07-01 14:15,ER,Albany Medical Center ,1,1,0.8534824
+2024-07-01 14:15,Other,University Hospital,0,0,0.055352252
+2024-07-01 14:15,ICU/PCU,University Hospital,1,1,0.8379768
+2024-07-01 14:15,Telemetry,WellSpan York Hospital,0,0,0.33169812
+2024-07-01 15:22,Other,UNC Medical Center,1,1,0.7975679
+2024-07-01 15:22,med/surgery,UNC Medical Center,1,1,0.94905394
+2024-07-01 17:26,med/surgery,Hackensack Meridian Health,1,1,0.78036594
+2024-07-01 17:26,Telemetry,Hackensack Meridian Health,1,1,0.768957
+2024-07-01 20:32,ICU/PCU,Monument Health,0,1,0.6299226
+2024-07-01 21:21,Stepdown,UNC Medical Center,0,1,0.6583887
+2024-07-01 21:21,Other,UNC Medical Center,1,1,0.9173512
+2024-07-01 21:21,ER,UNC Medical Center,1,1,0.7611775
+2024-07-01 23:20,Other,UNC Medical Center,1,1,0.8491929
+2024-07-02 01:23,ICU/PCU,UNC Medical Center,1,1,0.78036594
+2024-07-02 01:49,LTC,Genesis - Northeast Region,1,1,0.79696983
+2024-07-02 01:49,LTC,Genesis - Mid-America & SE Region,1,1,0.78036594
+2024-07-02 01:50,LTC,Genesis - Northeast Region,1,1,0.8872517
+2024-07-02 03:20,med/surgery,MVHS Inc.,1,1,0.768957
+2024-07-02 03:20,Other,MVHS Inc.,1,1,0.930729
+2024-07-02 03:20,med/surgery,MVHS Inc.,0,1,0.9723795
+2024-07-02 03:20,med/surgery,Unity Hospital,0,1,0.930729
+2024-07-02 03:20,med/surgery,Unity Hospital,0,1,0.78702813
+2024-07-02 03:20,med/surgery,Rochester General Hospital,1,1,0.90512013
+2024-07-02 03:20,med/surgery,Rochester General Hospital,1,0,0.3390231
+2024-07-02 03:20,ER,Northside Hospital Atlanta,1,1,0.90512013
+2024-07-02 07:34,ICU/PCU,MUSC Health Charleston,1,1,0.96493053
+2024-07-02 08:01,ICU/PCU,Walnut Creek Medical Center,1,1,0.96493053
+2024-07-02 13:56,ER,Mercy Hospital Springfield ,1,1,0.949481
+2024-07-02 13:56,Telemetry,Mercy Hospital Springfield ,1,1,0.949481
+2024-07-02 13:56,Telemetry,Mercy Hospital Springfield ,1,0,0.104674056
+2024-07-02 13:56,ER,WellSpan York Hospital,0,0,0.15107638
+2024-07-02 13:56,med/surgery,Albany Medical Center ,1,1,0.7858571
+2024-07-02 13:56,med/surgery,Albany Medical Center ,1,1,0.7858571
+2024-07-02 13:56,ICU/PCU,Albany Medical Center ,1,1,0.7858571
+2024-07-02 13:56,ICU/PCU,Albany Medical Center ,1,1,0.92034924
+2024-07-02 13:56,ICU/PCU,Albany Medical Center ,1,1,0.59354764
+2024-07-02 13:56,ICU/PCU,Albany Medical Center ,1,1,0.6476473
+2024-07-02 13:57,ICU/PCU,Albany Medical Center ,1,1,0.6476473
+2024-07-02 13:57,ICU/PCU,Albany Medical Center ,0,1,0.60771453
+2024-07-02 13:57,med/surgery,Albany Medical Center ,1,1,0.7858571
+2024-07-02 13:57,med/surgery,Albany Medical Center ,1,1,0.92034924
+2024-07-02 13:57,Other,Mission Hospital,1,1,0.7858571
+2024-07-02 14:32,ICU/PCU,Sanford Health,1,1,0.7858571
+2024-07-02 15:01,med/surgery,Glens Falls Hospital,1,1,0.92034924
+2024-07-02 15:22,Other,Wayne UNC Health Care,1,1,0.92034924
+2024-07-02 17:01,med/surgery,Walnut Creek Medical Center,0,1,0.60737604
+2024-07-02 17:40,med/surgery,MUSC Health Charleston,1,1,0.8004481
+2024-07-02 17:40,Stepdown,The Cleveland Clinic Main Campus,0,0,0.31183964
+2024-07-02 18:02,Labor/Delivery,Carle Health,1,1,0.9173512
+2024-07-02 18:02,med/surgery,Carle Health,1,0,0.2648634
+2024-07-02 19:47,Telemetry,The Cleveland Clinic Main Campus,0,0,0.28479573
+2024-07-02 21:22,med/surgery,UNC Medical Center,0,1,0.930729
+2024-07-02 21:22,Stepdown,UNC Medical Center,0,0,0.4598587
+2024-07-02 21:22,ICU/PCU,UNC Medical Center,1,1,0.606456
+2024-07-02 22:21,Telemetry,Salem Hospital(NSMC),1,0,0.14654921
+2024-07-02 23:10,ER,MVHS Inc.,0,0,0.095340684
+2024-07-03 02:29,LTC,Genesis - Mid-America & SE Region,1,1,0.90273964
+2024-07-03 02:29,LTC,Genesis - Northeast Region,1,1,0.73704165
+2024-07-03 03:00,Other,Hackensack Meridian Health,1,1,0.86963403
+2024-07-03 03:00,med/surgery,Carle Health,0,1,0.930729
+2024-07-03 03:01,Other,Hackensack Meridian Health,1,1,0.8872517
+2024-07-03 07:28,med/surgery,MUSC Health Charleston,1,1,0.8491929
+2024-07-03 07:33,ICU/PCU,Rochester General Hospital,1,1,0.94905394
+2024-07-03 11:21,ER,Mission Hospital,1,1,0.8436211
+2024-07-03 11:21,ER,Mission Hospital,1,1,0.8269366
+2024-07-03 11:22,ICU/PCU,Mission Hospital,0,1,0.9723795
+2024-07-03 11:22,ICU/PCU,Mission Hospital,0,1,0.930729
+2024-07-03 11:24,ER,Albany Medical Center ,1,1,0.8004481
+2024-07-03 11:24,ICU/PCU,Jewish Hospital,1,1,0.90273964
+2024-07-03 11:24,Other,Albany Medical Center ,1,1,0.8004481
+2024-07-03 15:03,Other,Hackensack Meridian Health,1,1,0.606456
+2024-07-03 15:23,med/surgery,UNC Medical Center,0,0,0.33654308
+2024-07-03 15:23,med/surgery,UNC Rex,1,1,0.7101134
+2024-07-03 15:23,med/surgery,UNC Medical Center,1,1,0.7101134
+2024-07-03 15:32,Stepdown,WIMIL CSM Milwaukee Hosp,1,1,0.72294796
+2024-07-03 15:32,Stepdown,WIMIL CSM Milwaukee Hosp,1,1,0.72294796
+2024-07-03 15:32,Stepdown,WIMIL CSM Milwaukee Hosp,1,1,0.8534824
+2024-07-03 15:32,Stepdown,WIMIL CSM Milwaukee Hosp,1,1,0.89013207
+2024-07-03 15:32,Stepdown,WIMIL CSM Milwaukee Hosp,1,1,0.6856952
+2024-07-03 16:15,Telemetry,Sanford Health,1,1,0.8004481
+2024-07-03 17:02,Other,Monument Health,1,1,0.94905394
+2024-07-03 17:31,med/surgery,MUSC Health Charleston,1,1,0.6568247
+2024-07-03 17:34,med/surgery,MUSC Health Charleston,1,1,0.94905394
+2024-07-03 19:22,ER,UNC Medical Center,1,1,0.87502253
+2024-07-03 19:32,ER,MUSC Health Charleston,1,1,0.87502253
+2024-07-03 19:33,ER,MUSC Health Charleston,1,1,0.87502253
+2024-07-03 19:36,ER,MUSC Health Charleston,1,1,0.87502253
+2024-07-03 21:17,Other,Hackensack Meridian Health,1,1,0.87502253
+2024-07-03 23:21,ER,UNC Medical Center,0,0,0.42017588
+2024-07-03 23:21,med/surgery,UNC Medical Center,1,1,0.80913943
+2024-07-04 06:35,med/surgery,UW Health University Hospital,1,1,0.606456
+2024-07-04 13:40,Other,Northside Hospital Gwinnett,1,1,0.606456
+2024-07-04 12:32,med/surgery,Albany Medical Center ,1,1,0.79696983
+2024-07-04 12:33,Telemetry,Mission Hospital,1,0,0.22851145
+2024-07-04 15:14,Other,The Evangelical Lutheran Good Samaritan Society,1,0,0.22851145
+2024-07-05 05:30,Other,Northside Hospital Atlanta,0,0,0.22851145
+2024-07-05 05:30,ER,Northside Hospital Atlanta,1,1,0.8004481
+2024-07-05 17:14,ICU/PCU,MUSC Health Charleston,1,1,0.94905394
+2024-07-05 17:29,Other,Hackensack Meridian Health,1,1,0.79696983
+2024-07-05 19:23,med/surgery,UW Health University Hospital,1,1,0.8035996
+2024-07-05 23:37,med/surgery,CHI Health Creighton University Medical Center - Bergan Mercy,1,1,0.92034924
+2024-07-05 23:50,Telemetry,Hackensack Meridian Health,1,0,0.2640981
+2024-07-06 02:33,ICU/PCU,TNNAS ST West Hospital,1,1,0.609343
+2024-07-06 19:56,med/surgery,CHI Health Creighton University Medical Center - Bergan Mercy,0,1,0.8019017
+2024-07-08 06:59,Other,Albany Medical Center ,1,0,0.3390231
+2024-07-08 07:00,Telemetry,Albany Medical Center ,1,1,0.86987233
+2024-07-08 07:07,Other,Sanford Health,1,0,0.104674056
+2024-07-08 14:32,ICU/PCU,The Cleveland Clinic Main Campus,1,1,0.8004481
+2024-07-08 15:08,ICU/PCU,UW Health University Hospital,1,1,0.8035996
+2024-07-08 17:02,ICU/PCU,Monument Health,1,1,0.85183686
+2024-07-08 17:08,med/surgery,UW Health University Hospital,1,0,0.43849352
+2024-07-08 17:20,med/surgery,Wayne UNC Health Care,0,1,0.6299226
+2024-07-08 17:20,ER,UNC Medical Center,1,1,0.86555684
+2024-07-08 17:20,med/surgery,UNC Medical Center,1,0,0.43849352
+2024-07-08 17:20,ER,UNC Medical Center,1,1,0.9173512
+2024-07-08 17:20,med/surgery,UNC Rex,1,1,0.6856952
+2024-07-08 17:20,med/surgery,UNC Medical Center,0,0,0.474425
+2024-07-08 17:20,med/surgery,UNC Medical Center,1,1,0.6944415
+2024-07-08 18:47,Other,Massachusetts General Hospital(MGH),0,0,0.21508466
+2024-07-08 19:19,ICU/PCU,D-H Medical Center,1,1,0.86987233
+2024-07-08 20:11,Other,Carle Health,1,0,0.26885387
+2024-07-08 21:19,med/surgery,Wayne UNC Health Care,1,1,0.9173512
+2024-07-08 22:09,med/surgery,MVHS Inc.,1,1,0.8035996
+2024-07-08 22:09,med/surgery,MVHS Inc.,1,1,0.7827037
+2024-07-08 22:10,Other,Rochester General Hospital,1,1,0.79696983
+2024-07-08 22:10,ER,Rochester General Hospital,1,1,0.94905394
+2024-07-08 22:10,Other,Lawrence General Hospital,1,1,0.79696983
+2024-07-08 23:37,Other,Carle Health,1,1,0.6568247
+2024-07-08 23:37,Other,Carle Health,1,1,0.94905394
+2024-07-08 23:37,med/surgery,Carle Health,1,1,0.94905394
+2024-07-08 23:37,Other,Carle Health,1,1,0.8004481
+2024-07-08 23:37,Other,Carle Health,1,0,0.34472176
+2024-07-08 23:37,med/surgery,Carle Health,0,0,0.053534042
+2024-07-09 01:59,ICU/PCU,Salem Hospital(NSMC),1,1,0.86963403
+2024-07-09 01:59,ICU/PCU,Salem Hospital(NSMC),1,1,0.7827037
+2024-07-09 07:19,Other,OSF Healthcare,1,1,0.90512013
+2024-07-09 07:19,ER,UW Health University Hospital,1,1,0.90512013
+2024-07-09 13:14,med/surgery,Albany Medical Center ,0,0,0.40229622
+2024-07-09 13:15,ICU/PCU,Albany Medical Center ,1,1,0.562389
+2024-07-09 13:15,ER,WellSpan York Hospital,1,0,0.47470957
+2024-07-09 13:15,ER,Albany Medical Center ,1,1,0.86963403
+2024-07-09 13:15,Other,University Hospital,1,1,0.90273964
+2024-07-09 13:15,ICU/PCU,University Hospital,1,1,0.86963403
+2024-07-09 13:15,ICU/PCU,University Hospital,1,1,0.86963403
+2024-07-09 13:15,Telemetry,University Hospital,1,1,0.86963403
+2024-07-09 13:20,med/surgery,Wayne UNC Health Care,1,1,0.90273964
+2024-07-09 13:20,med/surgery,Wayne UNC Health Care,0,0,0.493681
+2024-07-09 15:19,Stepdown,UNC Medical Center,0,0,0.493681
+2024-07-09 15:29,med/surgery,TNNAS ST Rutherford Hospital,1,1,0.65755683
+2024-07-09 15:29,med/surgery,TNNAS ST Rutherford Hospital,1,0,0.49100396
+2024-07-09 16:31,ICU/PCU,Monument Health,1,1,0.86963403
+2024-07-09 17:10,Stepdown,PHP Miami Valley Hospital,1,1,0.92034924
+2024-07-09 17:18,Other,UNC Medical Center,0,0,0.04917534
+2024-07-09 19:06,med/surgery,Carle Health,1,1,0.7858571
+2024-07-09 19:14,ICU/PCU,The Cleveland Clinic Main Campus,1,1,0.59354764
+2024-07-09 19:19,med/surgery,UNC Rex,1,1,0.8534824
+2024-07-09 19:19,med/surgery,UNC Rex,0,0,0.055352252
+2024-07-09 20:00,ER, MercyOne Des Moines Medical Center,1,1,0.8379768
+2024-07-09 21:00,Other,Glens Falls Hospital,1,1,0.8379768
+2024-07-09 21:21,med/surgery,UNC Medical Center,1,1,0.7827037
+2024-07-09 21:21,med/surgery,UNC Medical Center,1,1,0.7827037
+2024-07-09 21:21,ICU/PCU,UNC Rex,1,1,0.8491929
+2024-07-09 21:21,ICU/PCU,UNC Medical Center,1,1,0.80872315
+2024-07-09 21:21,med/surgery,UNC Rex,1,1,0.80872315
+2024-07-09 21:21,med/surgery,UNC Rex,1,1,0.59354764
+2024-07-09 21:21,Other,UNC Medical Center,1,1,0.9173512
+2024-07-09 21:32,Other,Monument Health,1,1,0.5772158
+2024-07-10 00:22,Other,Unity Hospital,1,1,0.78036594
+2024-07-10 00:22,Other,Northside Hospital Cherokee,1,1,0.90273964
+2024-07-10 00:22,ER,Northside Hospital Atlanta,0,0,0.21508466
+2024-07-10 07:21,med/surgery,UNC Medical Center,1,1,0.8004481
+2024-07-10 07:21,med/surgery,UNC Medical Center,1,1,0.6568247
+2024-07-10 07:21,ICU/PCU,UNC Rex,1,1,0.6568247
+2024-07-10 07:21,ICU/PCU,UNC Medical Center,0,1,0.65537137
+2024-07-10 10:43,ER,Albany Medical Center ,1,0,0.07316781
+2024-07-10 10:43,ER,Albany Medical Center ,0,0,0.26357114
+2024-07-10 10:43,ICU/PCU,Albany Medical Center ,1,1,0.94905394
+2024-07-10 10:44,ICU/PCU,Jewish Hospital,1,1,0.94905394
+2024-07-10 11:24,ER,Walnut Creek Medical Center,1,1,0.8872517
+2024-07-10 11:24,Other,Walnut Creek Medical Center,1,1,0.6568247
+2024-07-10 11:24,Other,Walnut Creek Medical Center,1,1,0.6568247
+2024-07-10 11:24,ER,Walnut Creek Medical Center,1,1,0.78036594
+2024-07-10 11:24,ER,Walnut Creek Medical Center,1,1,0.80913943
+2024-07-10 11:24,ER,Walnut Creek Medical Center,0,0,0.46500888
+2024-07-10 11:24,ER,Walnut Creek Medical Center,1,1,0.737361
+2024-07-10 12:52,Stepdown,The Cleveland Clinic Main Campus,1,0,0.3390231
+2024-07-10 13:21,Telemetry,OSF Healthcare,1,1,0.94905394
+2024-07-10 15:08,Other,WIMIL CSM Milwaukee Hosp,1,1,0.94905394
+2024-07-10 15:19,med/surgery,Wayne UNC Health Care,0,0,0.26357114
+2024-07-10 15:19,med/surgery,Wayne UNC Health Care,1,1,0.8872517
+2024-07-10 15:19,med/surgery,Wayne UNC Health Care,1,1,0.8534824
+2024-07-10 17:00,med/surgery,Glens Falls Hospital,1,1,0.7858571
+2024-07-10 17:00,med/surgery,Glens Falls Hospital,1,1,0.8534824
+2024-07-10 17:00,ER,Glens Falls Hospital,1,1,0.89013207
+2024-07-10 17:00,med/surgery,Glens Falls Hospital,1,0,0.31075716
+2024-07-10 17:00,med/surgery,Glens Falls Hospital,1,0,0.31075716
+2024-07-10 17:00,med/surgery,Glens Falls Hospital,1,0,0.31075716
+2024-07-10 17:01,ICU/PCU,Glens Falls Hospital,1,0,0.31075716
+2024-07-10 17:01,med/surgery,Glens Falls Hospital,0,0,0.22162502
+2024-07-10 17:01,med/surgery,Glens Falls Hospital,0,0,0.22162502
+2024-07-10 17:01,Other,Glens Falls Hospital,1,0,0.31075716
+2024-07-10 17:01,ICU/PCU,Glens Falls Hospital,1,0,0.14654921
+2024-07-10 17:01,med/surgery,Glens Falls Hospital,0,1,0.5138868
+2024-07-10 17:01,ER,Glens Falls Hospital,0,0,0.1939915
+2024-07-10 17:20,med/surgery,Wayne UNC Health Care,1,1,0.7827037
+2024-07-10 19:06,med/surgery,IA_Iowa Methodist Medical Center (IMMC),1,1,0.7827037
+2024-07-10 21:20,med/surgery,UNC Rex,1,1,0.7827037
+2024-07-10 22:01,ICU/PCU,Monument Health,1,0,0.2648634
+2024-07-10 22:25,Other,Brigham & Women's Hospital(BWH),1,0,0.2648634
+2024-07-10 22:25,Other,Brigham & Women's Hospital(BWH),1,0,0.2648634
+2024-07-10 22:25,Telemetry,Salem Hospital(NSMC),1,0,0.111117445
+2024-07-10 22:25,Telemetry,OKTUL St John Medical Center,1,0,0.2648634
+2024-07-10 22:25,Telemetry,OKTUL St John Medical Center,1,0,0.2648634
+2024-07-10 22:25,Telemetry,OKTUL St John Medical Center,0,0,0.111117445
+2024-07-10 22:25,ICU/PCU,OKTUL St John Medical Center,1,0,0.2648634
+2024-07-10 22:25,ICU/PCU,OKTUL St John Medical Center,1,0,0.047021884
+2024-07-10 22:25,med/surgery,ININD St Vincent Indpls Acute,1,0,0.07316781
+2024-07-10 22:33,ER,Rochester General Hospital,1,0,0.2648634
+2024-07-11 06:53,ER,Mission Hospital,1,0,0.2648634
+2024-07-11 06:54,ICU/PCU,Jewish Hospital,0,0,0.047021884
+2024-07-11 10:29,ER,Walnut Creek Medical Center,1,1,0.7827037
+2024-07-11 10:29,ER,Walnut Creek Medical Center,1,1,0.7975679
+2024-07-11 10:29,ER,Walnut Creek Medical Center,1,1,0.6568247
+2024-07-11 10:55,ER,WellSpan York Hospital,1,1,0.9173512
+2024-07-11 11:18,med/surgery,Wayne UNC Health Care,1,0,0.27996466
+2024-07-11 14:00,med/surgery,Glens Falls Hospital,1,1,0.5833066
+2024-07-11 14:00,med/surgery,Glens Falls Hospital,0,0,0.25995573
+2024-07-11 14:00,Telemetry,Glens Falls Hospital,0,0,0.25995573
+2024-07-11 14:00,Telemetry,Glens Falls Hospital,1,1,0.8263095
+2024-07-11 14:00,Telemetry,Glens Falls Hospital,1,1,0.8263095
+2024-07-11 15:08,Telemetry,The Cleveland Clinic Main Campus,1,1,0.8263095
+2024-07-11 15:19,med/surgery,UNC Rex,1,1,0.8436211
+2024-07-11 15:19,med/surgery,Wayne UNC Health Care,1,0,0.27996466
+2024-07-11 15:19,med/surgery,Wayne UNC Health Care,0,1,0.562389
+2024-07-11 15:23,med/surgery,Massachusetts General Hospital(MGH),1,1,0.7101134
+2024-07-11 16:31,Other,Monument Health,1,1,0.89013207
+2024-07-11 16:32,ICU/PCU,Monument Health,1,0,0.31075716
+2024-07-11 17:04,ICU/PCU,MUSC Health Charleston,1,0,0.31075716
+2024-07-11 21:18,ER,UNC Medical Center,1,0,0.31075716
+2024-07-11 22:38,med/surgery,TNNAS ST West Hospital,1,1,0.59354764
+2024-07-11 23:18,med/surgery,UNC Medical Center,1,1,0.7827037
+2024-07-11 23:18,med/surgery,UNC Medical Center,1,0,0.2648634
+2024-07-11 23:18,med/surgery,UNC Medical Center,1,0,0.0651399
+2024-07-11 23:18,ICU/PCU,UNC Medical Center,1,0,0.0651399
+2024-07-12 05:09,med/surgery,Rochester General Hospital,0,0,0.0651399
+2024-07-12 05:09,med/surgery,Rochester General Hospital,1,0,0.2648634
+2024-07-12 07:00,ICU/PCU,Jewish Hospital,1,1,0.9173512
+2024-07-12 07:00,ICU/PCU,Jewish Hospital,1,1,0.73704165
+2024-07-12 07:00,ICU/PCU,Jewish Hospital,1,1,0.6568247
+2024-07-12 07:00,med/surgery,Albany Medical Center ,1,1,0.7827037
+2024-07-12 07:07,ICU/PCU,PHP Miami Valley Hospital,1,1,0.7827037
+2024-07-12 09:19,ER,UNC Medical Center,1,0,0.2660105
+2024-07-12 09:19,med/surgery,UNC Rex,1,1,0.80913943
+2024-07-12 09:19,med/surgery,Wayne UNC Health Care,1,1,0.9173512
+2024-07-12 11:02,ER,Albany Medical Center ,1,0,0.104674056
+2024-07-12 11:02,ER,WellSpan York Hospital,1,1,0.79696983
+2024-07-12 11:02,ICU/PCU,Jewish Hospital,1,1,0.73704165
+2024-07-12 11:03,ER,WellSpan York Hospital,1,1,0.8121513
+2024-07-12 11:03,ICU/PCU,Jewish Hospital,1,1,0.94905394
+2024-07-12 11:03,ICU/PCU,Jewish Hospital,1,1,0.94905394
+2024-07-12 11:19,med/surgery,UNC Medical Center,1,1,0.94905394
+2024-07-12 11:19,ICU/PCU,UNC Medical Center,1,1,0.8872517
+2024-07-12 15:00,Other,Hackensack Meridian Health,1,1,0.949481
+2024-07-12 15:01,ICU/PCU,Monument Health,1,1,0.949481
+2024-07-12 17:18,med/surgery,UNC Medical Center,1,1,0.89013207
+2024-07-12 17:18,med/surgery,UNC Medical Center,1,1,0.89013207
+2024-07-12 17:18,med/surgery,UNC Medical Center,1,1,0.89013207
+2024-07-12 18:04,Other,Sanford Health,1,1,0.92034924
+2024-07-12 19:16,med/surgery,MUSC Health Charleston,1,1,0.54105246
+2024-07-12 19:19,ER,UNC Medical Center,1,1,0.79696983
+2024-07-12 19:19,Telemetry,UNC Medical Center,1,1,0.7827037
+2024-07-12 19:19,Telemetry,UNC Medical Center,1,1,0.6568247
+2024-07-12 19:30,Stepdown,CHI Health Creighton University Medical Center - Bergan Mercy,1,1,0.89013207
+2024-07-12 19:35,Stepdown,The Cleveland Clinic Main Campus,1,1,0.59354764
+2024-07-12 21:19,med/surgery,UNC Medical Center,1,1,0.8534824
+2024-07-12 21:19,Stepdown,UNC Medical Center,0,1,0.59354764
+2024-07-12 22:02,Other,Monument Health,1,1,0.89013207
+2024-07-12 23:00,med/surgery,KSWIC VC Hospitals Wichita,1,1,0.89013207
+2024-07-12 23:00,Other,KSWIC VC Hospitals Wichita,1,1,0.8872517
+2024-07-12 23:00,med/surgery,KSWIC VC Hospitals Wichita,1,1,0.94905394
+2024-07-12 23:00,med/surgery,KSWIC VC Hospitals Wichita,1,1,0.8004481
+2024-07-12 23:00,Telemetry,OKTUL St John Medical Center,1,1,0.9173512
+2024-07-12 23:00,Telemetry,OKTUL St John Medical Center,1,1,0.94905394
+2024-07-12 23:00,Other,OKTUL St John Medical Center,1,1,0.94905394
+2024-07-12 23:00,med/surgery,OKTUL St John Medical Center,1,1,0.94905394
+2024-07-12 23:00,Telemetry,OKTUL St John Medical Center,0,1,0.6944415
+2024-07-12 23:00,Telemetry,OKTUL St John Medical Center,1,1,0.606456
+2024-07-12 23:00,Stepdown,WIMIL CSM Milwaukee Hosp,1,1,0.6789692
+2024-07-12 23:00,Telemetry,OKTUL St John Medical Center,1,1,0.6789692
+2024-07-12 23:00,Stepdown,OKTUL St John Medical Center,0,1,0.79696983
+2024-07-12 23:00,Stepdown,OKTUL St John Medical Center,1,1,0.67601067
+2024-07-12 23:00,Other,OKTUL St John Medical Center,1,0,0.14654921
+2024-07-12 23:00,ICU/PCU,TNNAS ST Rutherford Hospital,1,1,0.94905394
+2024-07-12 23:00,med/surgery,TNNAS ST West Hospital,1,1,0.8491929
+2024-07-12 23:00,ICU/PCU,TNNAS ST West Hospital,1,1,0.80913943
+2024-07-12 23:00,ICU/PCU,TNNAS ST West Hospital,1,1,0.9640604
+2024-07-12 23:00,ICU/PCU,TNNAS ST West Hospital,0,1,0.5385218
+2024-07-12 23:00,med/surgery,TNNAS ST West Hospital,1,1,0.9640604
+2024-07-12 23:19,med/surgery,UNC Rex,1,1,0.86555684
+2024-07-12 23:19,Stepdown,UNC Medical Center,1,1,0.9640604
+2024-07-12 23:19,ER,UNC Medical Center,1,1,0.8263095
+2024-07-12 23:19,med/surgery,UNC Medical Center,1,1,0.8263095
+2024-07-12 23:19,med/surgery,UNC Medical Center,1,1,0.73261493
+2024-07-12 23:19,med/surgery,UNC Medical Center,1,1,0.8189579
+2024-07-12 23:19,Telemetry,UNC Medical Center,1,1,0.8263095
+2024-07-12 23:19,Telemetry,UNC Medical Center,1,1,0.8263095
+2024-07-12 23:19,med/surgery,UNC Medical Center,1,1,0.87502253
+2024-07-12 23:19,med/surgery,UNC Medical Center,1,1,0.8263095
+2024-07-13 07:19,med/surgery,UNC Rex,0,0,0.4570761
+2024-07-13 07:19,med/surgery,UNC Medical Center,0,0,0.4570761
+2024-07-13 12:38,ICU/PCU,ININD St Vincent Indpls Acute,1,1,0.73261493
+2024-07-13 15:09,ICU/PCU,Hackensack Meridian Health,0,1,0.6105434
+2024-07-13 15:09,ICU/PCU,Hackensack Meridian Health,1,1,0.8121513
+2024-07-13 18:12,med/surgery,CHI Health Creighton University Medical Center - Bergan Mercy,1,1,0.86555684
+2024-07-13 18:12,med/surgery,CHI Health Creighton University Medical Center - Bergan Mercy,1,1,0.86555684
+2024-07-13 18:12,ER,CHI Health Creighton University Medical Center - Bergan Mercy,1,1,0.8121513
+2024-07-13 20:05,med/surgery,OKTUL St John Medical Center,1,1,0.6568247
+2024-07-14 22:32,ICU/PCU,Monument Health,1,1,0.94905394
+2024-07-15 07:25,ER,Mission Hospital,0,1,0.79696983
+2024-07-15 07:26,Other,Mercy Hospital Springfield ,1,1,0.94905394
+2024-07-15 07:26,ER,Mercy Hospital Springfield ,1,1,0.8491929
+2024-07-15 07:26,ER,Mercy Hospital Springfield ,0,1,0.6789692
+2024-07-15 07:26,med/surgery,Albany Medical Center ,0,1,0.6789692
+2024-07-15 07:27,Other,Albany Medical Center ,1,1,0.94905394
+2024-07-15 07:27,Other,Albany Medical Center ,1,1,0.94905394
+2024-07-15 07:27,Telemetry,Mission Hospital,1,1,0.94905394
+2024-07-15 07:34,Other,OSF Healthcare,1,1,0.94905394
+2024-07-15 07:34,med/surgery,OSF Healthcare,1,1,0.6568247
+2024-07-15 07:34,med/surgery,OSF Healthcare,1,1,0.6386321
+2024-07-15 07:34,med/surgery,OSF Healthcare,1,1,0.6845972
+2024-07-15 07:34,Other,OSF Healthcare,1,1,0.6845972
+2024-07-15 07:34,Other,OSF Healthcare,0,0,0.34574205
+2024-07-15 07:34,med/surgery,OSF Healthcare,0,0,0.43849352
+2024-07-15 07:35,Stepdown,CHI Health Creighton University Medical Center - Bergan Mercy,0,0,0.43849352
+2024-07-15 08:00,Other, MercyOne North Iowa Medical Center,0,1,0.8189579
+2024-07-15 15:35,med/surgery,D-H Medical Center,1,1,0.9173512
+2024-07-15 15:35,ER,D-H Medical Center,1,1,0.7101134
+2024-07-15 15:35,ICU/PCU,D-H Medical Center,0,0,0.47165856
+2024-07-15 15:44,Other,Carle Health,0,1,0.60771453
+2024-07-15 15:50,Other,MUSC Health Charleston,0,1,0.60771453
+2024-07-15 16:02,Other,Monument Health,1,1,0.92034924
+2024-07-15 16:33,med/surgery,KSWIC VC Hospitals Wichita,1,1,0.6856952
+2024-07-15 16:51,med/surgery,MVHS Inc.,0,1,0.6856952
+2024-07-15 17:19,med/surgery,UNC Rex,1,0,0.2640981
+2024-07-15 17:36,ICU/PCU,MUSC Health Charleston,1,1,0.8002036
+2024-07-15 17:40,Telemetry,The Cleveland Clinic Main Campus,1,1,0.8002036
+2024-07-15 19:19,med/surgery,UNC Rex,1,1,0.8002036
+2024-07-15 21:38,Labor/Delivery,Hackensack Meridian Health,1,1,0.65755683
+2024-07-15 21:39,Labor/Delivery,Carle Health,1,1,0.65755683
+2024-07-15 21:39,Labor/Delivery,Carle Health,1,1,0.65755683
+2024-07-15 21:39,med/surgery,Carle Health,1,1,0.8002036
+2024-07-15 21:39,med/surgery,Carle Health,1,1,0.67601067
+2024-07-15 21:39,med/surgery,Carle Health,0,1,0.50674635
+2024-07-15 21:39,med/surgery,Carle Health,0,0,0.12533875
+2024-07-15 21:42,Telemetry,The Cleveland Clinic Main Campus,0,0,0.053534042
+2024-07-16 00:06,ER,Salem Hospital(NSMC),1,1,0.6101864
+2024-07-16 00:06,Other,Salem Hospital(NSMC),1,1,0.86963403
+2024-07-16 00:06,Other,Salem Hospital(NSMC),1,0,0.15757611
+2024-07-16 00:06,ER,Salem Hospital(NSMC),1,1,0.80913943
+2024-07-16 00:06,med/surgery,TNNAS ST West Hospital,1,1,0.9640604
+2024-07-16 00:06,ICU/PCU,ININD St Vincent Indpls Acute,1,1,0.90512013
+2024-07-16 00:49,med/surgery,Unity Hospital,1,1,0.6568247
+2024-07-16 07:47,med/surgery,D-H Medical Center,1,0,0.104674056
+2024-07-16 07:56,Other,The Evangelical Lutheran Good Samaritan Society,1,1,0.73704165
+2024-07-16 07:56,Stepdown,OSF Healthcare,1,1,0.6568247
+2024-07-16 09:53,ICU/PCU,Albany Medical Center ,0,0,0.3230214
+2024-07-16 09:53,ICU/PCU,Jewish Hospital,1,1,0.90273964
+2024-07-16 09:53,ICU/PCU,Jewish Hospital,0,0,0.095340684
+2024-07-16 11:54,med/surgery,WellSpan York Hospital,0,0,0.095340684
+2024-07-16 11:55,ICU/PCU,University Hospital,1,1,0.90273964
+2024-07-16 13:56,med/surgery,UW Health University Hospital,1,1,0.90273964
+2024-07-16 15:56,Other,D-H Medical Center,1,1,0.90273964
+2024-07-16 17:01,ER,MVHS Inc.,1,1,0.73704165
+2024-07-16 17:18,med/surgery,Wayne UNC Health Care,1,1,0.79611725
+2024-07-16 17:57,Other,UW Health University Hospital,1,1,0.6386321
+2024-07-16 17:57,ICU/PCU,UW Health University Hospital,1,1,0.8121513
+2024-07-16 18:25,ICU/PCU,PHP Miami Valley Hospital,1,1,0.732403
+2024-07-16 18:27,Telemetry,The Cleveland Clinic Main Campus,1,1,0.732403
+2024-07-16 18:41,Other,Hackensack Meridian Health,1,1,0.79611725
+2024-07-16 19:49,LTC,"The Homestead | 418 N Main St, Penn Yan, NY",1,1,0.96493053
+2024-07-16 19:49,LTC,"The Homestead | 418 N Main St, Penn Yan, NY",1,1,0.6101864
+2024-07-16 21:33,ICU/PCU,Monument Health,1,0,0.4374479
+2024-07-16 22:21,Other,Lawrence General Hospital,0,1,0.8019017
+2024-07-16 23:18,med/surgery,UNC Medical Center,1,1,0.89013207
+2024-07-16 23:18,Other,UNC Medical Center,1,1,0.7858571
+2024-07-16 23:18,Other,UNC Medical Center,1,1,0.89013207
+2024-07-17 03:19,ICU/PCU,UNC Medical Center,0,1,0.70584106
+2024-07-17 04:15,Other,Hackensack Meridian Health,1,1,0.8379768
+2024-07-17 04:15,Other,Carle Health,1,1,0.86963403
+2024-07-17 04:15,Other,Carle Health,1,1,0.8035996
+2024-07-17 04:15,med/surgery,Carle Health,1,0,0.2736198
+2024-07-17 07:14,Telemetry,Rochester General Hospital,1,1,0.8269366
+2024-07-17 08:30,ICU/PCU,TNNAS ST West Hospital,1,1,0.7827037
+2024-07-17 11:00,ER,Walnut Creek Medical Center,0,0,0.37856883
+2024-07-17 11:00,ER,Walnut Creek Medical Center,1,0,0.26885387
+2024-07-17 11:00,ER,Walnut Creek Medical Center,1,1,0.54105246
+2024-07-17 11:00,ER,Walnut Creek Medical Center,1,1,0.73704165
+2024-07-17 11:13,ER,Mission Hospital,1,1,0.8004481
+2024-07-17 11:13,ER,Mission Hospital,0,1,0.91003263
+2024-07-17 11:15,Other,Mercy Hospital Springfield ,0,1,0.91003263
+2024-07-17 11:16,ER,University Hospital,1,1,0.9173512
+2024-07-17 11:24,med/surgery,UW Health University Hospital,0,0,0.47470957
+2024-07-17 11:24,ER,Sanford Health,1,1,0.78036594
+2024-07-17 13:16,med/surgery,MUSC Health Charleston,1,1,0.94905394
+2024-07-17 13:36,med/surgery,Sanford Health,1,1,0.78036594
+2024-07-17 14:40,med/surgery,IA_Iowa Methodist Medical Center (IMMC),1,1,0.8872517
+2024-07-17 15:02,med/surgery,IA_Iowa Methodist Medical Center (IMMC),1,1,0.86963403
+2024-07-17 15:02,med/surgery,IA_Iowa Methodist Medical Center (IMMC),1,1,0.8004481
+2024-07-17 15:02,med/surgery,IA_Iowa Methodist Medical Center (IMMC),1,1,0.86963403
+2024-07-17 15:18,ER,Wayne UNC Health Care,1,1,0.90273964
+2024-07-17 15:56,med/surgery,TNNAS ST West Hospital,0,0,0.41736063
+2024-07-17 17:30,med/surgery,IL_Trinity Rock Island,1,1,0.86555684
+2024-07-17 17:30,med/surgery,IL_Trinity Rock Island,1,0,0.31075716
+2024-07-17 17:30,ER,IA_Iowa Methodist Medical Center (IMMC),1,0,0.31075716
+2024-07-17 17:31,Other,IA_Iowa Methodist Medical Center (IMMC),1,0,0.31075716
+2024-07-17 17:31,med/surgery,IA_Iowa Methodist Medical Center (IMMC),1,0,0.31075716
+2024-07-17 17:31,med/surgery,IA_Iowa Methodist Medical Center (IMMC),1,1,0.7101134
+2024-07-17 17:38,med/surgery,UW Health University Hospital,1,1,0.7101134
+2024-07-17 17:38,med/surgery,UW Health University Hospital,0,0,0.47165856
+2024-07-17 19:19,ICU/PCU,UNC Rex,0,0,0.08490808
+2024-07-17 19:19,ICU/PCU,UNC Rex,1,1,0.8035996
+2024-07-17 19:19,med/surgery,Wayne UNC Health Care,0,1,0.5927768
+2024-07-17 19:27,ICU/PCU,UW Health University Hospital,1,1,0.606456
+2024-07-17 19:57,med/surgery,IL_Trinity Rock Island,1,1,0.7611775
+2024-07-17 19:57,ICU/PCU,IL_Trinity Rock Island,1,1,0.7975679
+2024-07-17 20:19,Other,OSF Healthcare,1,1,0.7975679
+2024-07-17 21:21,Other,UNC Medical Center,1,1,0.7975679
+2024-07-17 21:22,ICU/PCU,Jewish Hospital,1,1,0.7975679
+2024-07-17 21:32,ICU/PCU,Monument Health,1,1,0.6137203
+2024-07-17 23:25,ICU/PCU,ININD St Vincent Indpls Acute,1,1,0.7975679
+2024-07-17 23:25,ICU/PCU,ININD St Vincent Indpls Acute,0,0,0.26372108
+2024-07-17 23:25,ICU/PCU,KSWIC VC Hospitals Wichita,1,1,0.8121513
+2024-07-17 23:25,ICU/PCU,ININD St Vincent Indpls Acute,1,1,0.85183686
+2024-07-17 23:26,med/surgery,ININD St Vincent Indpls Acute,1,1,0.85183686
+2024-07-17 23:26,med/surgery,ININD St Vincent Indpls Acute,1,0,0.315153
+2024-07-17 23:26,Other,ININD St Vincent Indpls Acute,1,0,0.3075999
+2024-07-17 23:26,med/surgery,ININD St Vincent Indpls Acute,1,1,0.7975679
+2024-07-17 23:32,Stepdown,Rochester General Hospital,1,1,0.7975679
+2024-07-18 05:00,med/surgery, MercyOne North Iowa Medical Center,1,1,0.8035996
+2024-07-18 07:49,med/surgery,D-H Medical Center,1,1,0.8035996
+2024-07-18 07:49,Other,D-H Medical Center,0,0,0.26357114
+2024-07-18 07:49,ER,D-H Medical Center,0,0,0.26357114
+2024-07-18 12:19,ER,Walnut Creek Medical Center,1,1,0.7827037
+2024-07-18 12:19,ER,Walnut Creek Medical Center,1,0,0.26885387
+2024-07-18 12:19,ER,Walnut Creek Medical Center,1,1,0.85183686
+2024-07-18 15:54,Telemetry,Mercy Hospital Springfield ,1,0,0.3131826
+2024-07-18 15:55,med/surgery,Albany Medical Center ,1,1,0.65755683
+2024-07-18 15:55,ER,Albany Medical Center ,1,1,0.78036594
+2024-07-18 15:55,ER,Albany Medical Center ,1,1,0.89013207
+2024-07-18 15:55,Telemetry,Mission Hospital,1,1,0.9173512
+2024-07-18 15:55,Telemetry,Mission Hospital,1,1,0.63660395
+2024-07-18 16:00,med/surgery,UW Health University Hospital,1,1,0.6386321
+2024-07-18 16:03,Other,MUSC Health Charleston,1,1,0.6386321
+2024-07-18 16:54,Telemetry,Salem Hospital(NSMC),1,1,0.6386321
+2024-07-18 16:55,ICU/PCU,ININD St Vincent Indpls Acute,1,1,0.5833066
+2024-07-18 16:55,ICU/PCU,ININD St Vincent Indpls Acute,1,1,0.5833066
+2024-07-18 16:55,ICU/PCU,ININD St Vincent Indpls Acute,0,0,0.13366881
+2024-07-18 16:55,ICU/PCU,TNNAS ST West Hospital,1,1,0.5833066
+2024-07-18 21:21,Other,Hackensack Meridian Health,1,1,0.5822623
+2024-07-18 21:31,Other,IA_Allen Hospital,0,1,0.7349457
+2024-07-18 21:31,Other,IA_Allen Hospital,1,1,0.6101864
+2024-07-18 23:21,med/surgery,UNC Medical Center,0,0,0.12533875
+2024-07-18 23:49,ER,Unity Hospital,1,0,0.2736198
+2024-07-18 23:49,med/surgery,MVHS Inc.,1,0,0.31075716
+2024-07-18 23:49,med/surgery,MVHS Inc.,1,0,0.31075716
+2024-07-18 23:49,med/surgery,MVHS Inc.,1,0,0.31075716
+2024-07-18 23:49,Other,MVHS Inc.,1,1,0.6476473
+2024-07-18 23:49,med/surgery,MVHS Inc.,1,1,0.92034924
+2024-07-18 23:49,med/surgery,Unity Hospital,1,1,0.8534824
+2024-07-18 23:49,ER,Unity Hospital,0,0,0.2640981
+2024-07-18 23:49,med/surgery,Unity Hospital,1,1,0.8534824
+2024-07-18 23:49,med/surgery,Unity Hospital,0,0,0.2640981
+2024-07-18 23:49,med/surgery,Unity Hospital,1,1,0.8035996
+2024-07-18 23:49,med/surgery,Unity Hospital,1,0,0.15757611
+2024-07-18 23:49,ER,Northside Hospital Gwinnett,1,1,0.8436211
+2024-07-18 23:59,med/surgery,IL_Trinity Rock Island,1,1,0.6386321
+2024-07-18 23:59,Other,IL_Trinity Rock Island,1,1,0.6386321
+2024-07-18 23:59,ICU/PCU,IL_Trinity Rock Island,1,1,0.6386321
+2024-07-18 23:59,ICU/PCU,IL_Trinity Rock Island,1,1,0.86555684
+2024-07-18 23:59,ICU/PCU,IL_Trinity Rock Island,1,1,0.8004481
+2024-07-19 00:42,Telemetry,Salem Hospital(NSMC),1,0,0.18624455
+2024-07-19 00:42,med/surgery,TNNAS ST West Hospital,1,0,0.18624455
+2024-07-19 00:42,med/surgery,TNNAS ST West Hospital,1,1,0.94905394
+2024-07-19 00:42,med/surgery,TNNAS ST Rutherford Hospital,0,1,0.78702813
+2024-07-19 00:42,med/surgery,TNNAS ST Rutherford Hospital,1,1,0.96493053
+2024-07-19 00:42,med/surgery,TNNAS ST Rutherford Hospital,1,1,0.75305337
+2024-07-19 00:42,ICU/PCU,ININD St Vincent Indpls Acute,1,1,0.90512013
+2024-07-19 00:42,Other,ININD St Vincent Indpls Acute,1,1,0.90512013
+2024-07-19 01:21,Other,UNC Medical Center,1,1,0.90512013
+2024-07-19 10:14,Other,OSF Healthcare,1,1,0.90512013
+2024-07-19 12:01,ICU/PCU,Jewish Hospital,1,1,0.96493053
+2024-07-19 12:02,Other,Jewish Hospital,1,1,0.75305337
+2024-07-19 12:02,ICU/PCU,Jewish Hospital,1,1,0.96493053
+2024-07-19 12:02,ICU/PCU,Jewish Hospital,1,1,0.96493053
+2024-07-19 14:06,Other,MUSC Health Charleston,1,1,0.96493053
+2024-07-19 14:06,Other,MUSC Health Charleston,1,0,0.14075758
+2024-07-19 15:21,med/surgery,UNC Medical Center,0,0,0.3131826
+2024-07-19 15:21,med/surgery,UNC Medical Center,0,0,0.3131826
+2024-07-19 15:33,Other,Monument Health,0,0,0.3131826
+2024-07-19 16:03,Other,Monument Health,1,1,0.85183686
+2024-07-19 16:03,ER,Monument Health,0,0,0.24327691
+2024-07-19 16:03,ER,Monument Health,1,1,0.8436211
+2024-07-19 16:06,Other,MUSC Health Charleston,1,1,0.80872315
+2024-07-19 16:06,ER,MUSC Health Charleston,1,1,0.80872315
+2024-07-19 17:26,Telemetry,OKTUL St John Medical Center,1,1,0.8121513
+2024-07-19 17:28,med/surgery,UNC Medical Center,1,1,0.80872315
+2024-07-19 19:00,Stepdown,OSF Healthcare,1,1,0.6386321
+2024-07-19 19:00,Stepdown,OSF Healthcare,0,0,0.13366881
+2024-07-19 19:22,Stepdown,UNC Rex,1,1,0.8121513
+2024-07-19 20:28,Telemetry,The Cleveland Clinic Main Campus,1,1,0.78036594
+2024-07-19 21:22,Telemetry,Wayne UNC Health Care,1,1,0.65755683
+2024-07-20 00:49,med/surgery,Northside Hospital Forsyth,1,1,0.89013207
+2024-07-20 06:43,ICU/PCU,Hackensack Meridian Health,0,0,0.15009876
+2024-07-22 08:18,med/surgery,UW Health University Hospital,1,1,0.89013207
+2024-07-22 12:07,med/surgery,TNNAS ST West Hospital,1,1,0.89013207
+2024-07-22 12:07,Stepdown,ININD St Vincent Indpls Acute,1,0,0.15757611
+2024-07-22 12:07,Stepdown,ININD St Vincent Indpls Acute,1,0,0.15757611
+2024-07-22 12:07,Other,Salem Hospital(NSMC),1,1,0.94905394
+2024-07-22 12:07,ICU/PCU,TNNAS ST Rutherford Hospital,1,1,0.94905394
+2024-07-22 12:07,med/surgery,KSWIC VC Hospitals Wichita,1,1,0.80913943
+2024-07-22 12:07,med/surgery,KSWIC VC Hospitals Wichita,1,1,0.80913943
+2024-07-22 14:23,ICU/PCU,MUSC Health Charleston,1,1,0.5845543
+2024-07-22 14:28,Stepdown,The Cleveland Clinic Main Campus,1,1,0.5845543
+2024-07-22 14:28,Stepdown,The Cleveland Clinic Main Campus,0,0,0.22851145
+2024-07-22 15:24,Other,UNC Medical Center,1,0,0.15757611
+2024-07-22 15:24,med/surgery,UNC Medical Center,0,1,0.8263095
+2024-07-22 16:08,Stepdown,WIMIL CSM Milwaukee Hosp,1,1,0.94905394
+2024-07-22 16:08,ICU/PCU,ININD St Vincent Indpls Acute,1,0,0.4374479
+2024-07-22 16:33,ER,Monument Health,1,0,0.4374479
+2024-07-22 17:03,Other,Monument Health,0,0,0.26264864
+2024-07-22 18:34,med/surgery,Hackensack Meridian Health,1,1,0.73704165
+2024-07-22 19:03,Other,Monument Health,0,0,0.16722247
+2024-07-22 19:23,med/surgery,UNC Medical Center,1,1,0.645458
+2024-07-22 20:29,Telemetry,The Cleveland Clinic Main Campus,1,1,0.6845972
+2024-07-22 21:25,Other,Wayne UNC Health Care,0,0,0.34922773
+2024-07-22 21:25,med/surgery,UNC Medical Center,1,1,0.8035996
+2024-07-22 21:25,med/surgery,UNC Rex,0,0,0.07918393
+2024-07-22 21:25,med/surgery,Wayne UNC Health Care,0,0,0.07918393
+2024-07-22 21:25,ICU/PCU,UNC Medical Center,1,1,0.8121513
+2024-07-22 23:45,med/surgery,MVHS Inc.,0,1,0.6105434
+2024-07-22 23:46,med/surgery,Unity Hospital,1,1,0.9640604
+2024-07-23 00:17,Other,Massachusetts General Hospital(MGH),1,1,0.9640604
+2024-07-23 00:17,Other,OKTUL St John Medical Center,1,1,0.732403
+2024-07-23 00:17,med/surgery,OKTUL St John Medical Center,1,0,0.104674056
+2024-07-23 00:17,ER,OKTUL St John Medical Center,1,0,0.14654921
+2024-07-23 00:17,Other,OKTUL St John Medical Center,1,0,0.14654921
+2024-07-23 00:17,Stepdown,TNNAS ST West Hospital,1,1,0.94905394
+2024-07-23 00:18,med/surgery,KSWIC VC Hospitals Wichita,1,1,0.78036594
+2024-07-23 03:20,ICU/PCU,Carle Health,1,1,0.6386321
+2024-07-23 03:20,ICU/PCU,Carle Health,1,1,0.87502253
+2024-07-23 03:20,Other,Carle Health,1,1,0.5845543
+2024-07-23 03:20,Other,Carle Health,1,1,0.80913943
+2024-07-23 03:20,Other,Hackensack Meridian Health,1,1,0.768957
+2024-07-23 03:20,med/surgery,Carle Health,1,1,0.80913943
+2024-07-23 03:20,ICU/PCU,Carle Health,1,1,0.94905394
+2024-07-23 03:20,ICU/PCU,Carle Health,1,1,0.7975679
+2024-07-23 06:54,med/surgery,D-H Medical Center,1,1,0.73704165
+2024-07-23 06:54,med/surgery,D-H Medical Center,0,0,0.28479573
+2024-07-23 07:01,Other,Sanford Health,1,1,0.94905394
+2024-07-23 08:35,med/surgery,Massachusetts General Hospital(MGH),0,1,0.6568247
+2024-07-23 08:35,ER,KSWIC VC Hospitals Wichita,1,1,0.7827037
+2024-07-23 09:36,med/surgery,Walnut Creek Medical Center,1,1,0.8872517
+2024-07-23 10:55,Other,Jewish Hospital,1,1,0.90512013
+2024-07-23 10:56,ICU/PCU,Mission Hospital,1,1,0.96493053
+2024-07-23 10:57,ER,Albany Medical Center ,0,0,0.41852972
+2024-07-23 10:57,ER,Albany Medical Center ,1,1,0.73261493
+2024-07-23 10:57,ER,Albany Medical Center ,0,1,0.7051837
+2024-07-23 10:57,ER,Albany Medical Center ,0,1,0.8189579
+2024-07-23 10:57,ER,Albany Medical Center ,0,1,0.73261493
+2024-07-23 10:57,ER,Albany Medical Center ,0,0,0.34472176
+2024-07-23 10:57,med/surgery,Albany Medical Center ,1,1,0.9640604
+2024-07-23 10:57,ICU/PCU,University Hospital,0,0,0.13940197
+2024-07-23 10:57,Telemetry,Mission Hospital,1,1,0.90273964
+2024-07-23 14:51,Telemetry,The Cleveland Clinic Main Campus,0,0,0.13940197
+2024-07-23 14:51,Telemetry,The Cleveland Clinic Main Campus,1,1,0.8004481
+2024-07-23 15:10,Other,D-H Medical Center,1,1,0.86963403
+2024-07-23 15:38,med/surgery,OSF Healthcare,0,0,0.13940197
+2024-07-23 15:38,med/surgery,OSF Healthcare,0,0,0.13940197
+2024-07-23 15:38,med/surgery,OSF Healthcare,1,1,0.86963403
+2024-07-23 15:38,med/surgery,OSF Healthcare,1,1,0.6101864
+2024-07-23 15:38,med/surgery,OSF Healthcare,1,1,0.6101864
+2024-07-23 15:38,Other,OSF Healthcare,0,1,0.6944415
+2024-07-23 15:38,Other,OSF Healthcare,1,1,0.5656212
+2024-07-23 15:38,med/surgery,OSF Healthcare,1,0,0.2660105
+2024-07-23 15:38,med/surgery,OSF Healthcare,0,0,0.4598587
+2024-07-23 15:38,med/surgery,OSF Healthcare,0,0,0.15009876
+2024-07-23 15:38,med/surgery,OSF Healthcare,1,1,0.72294796
+2024-07-23 15:38,med/surgery,OSF Healthcare,1,1,0.8534824
+2024-07-23 15:38,med/surgery,OSF Healthcare,1,1,0.8534824
+2024-07-23 15:38,med/surgery,OSF Healthcare,1,1,0.8534824
+2024-07-23 18:53,Telemetry,The Cleveland Clinic Main Campus,1,1,0.8534824
+2024-07-23 18:53,Stepdown,The Cleveland Clinic Main Campus,1,1,0.8534824
+2024-07-23 18:53,Telemetry,The Cleveland Clinic Main Campus,1,1,0.8534824
+2024-07-23 18:53,Telemetry,The Cleveland Clinic Main Campus,1,1,0.92034924
+2024-07-23 18:53,Telemetry,The Cleveland Clinic Main Campus,1,1,0.8379768
+2024-07-23 18:53,Telemetry,The Cleveland Clinic Main Campus,0,0,0.2640981
+2024-07-23 19:07,Other,Hackensack Meridian Health,1,1,0.73704165
+2024-07-23 19:07,Other,Hackensack Meridian Health,1,1,0.73704165
+2024-07-23 19:07,ER,Carle Health,0,0,0.2736198
+2024-07-23 19:07,med/surgery,Hackensack Meridian Health,1,1,0.8002036
+2024-07-23 19:07,med/surgery,Hackensack Meridian Health,1,1,0.8002036
+2024-07-23 19:07,Other,Hackensack Meridian Health,1,1,0.8002036
+2024-07-23 20:02,med/surgery,OSF Healthcare,1,1,0.8002036
+2024-07-23 20:02,med/surgery,OSF Healthcare,1,1,0.8002036
+2024-07-23 20:02,med/surgery,OSF Healthcare,1,1,0.8002036
+2024-07-23 20:02,Other,OSF Healthcare,1,1,0.65755683
+2024-07-23 20:02,Other,OSF Healthcare,1,1,0.8002036
+2024-07-23 20:02,Other,OSF Healthcare,1,1,0.8002036
+2024-07-23 20:02,Other,OSF Healthcare,1,1,0.8002036
+2024-07-23 20:02,Other,OSF Healthcare,1,1,0.8002036
+2024-07-23 20:02,Other,OSF Healthcare,1,1,0.8002036
+2024-07-23 20:02,Other,OSF Healthcare,1,1,0.8002036
+2024-07-23 20:02,Other,OSF Healthcare,1,1,0.65755683
+2024-07-23 20:02,Other,OSF Healthcare,1,1,0.7975679
+2024-07-23 20:54,Telemetry,The Cleveland Clinic Main Campus,1,1,0.73704165
+2024-07-23 20:54,ER,Lawrence General Hospital,1,0,0.14654921
+2024-07-23 20:54,Other,Lawrence General Hospital,1,1,0.73704165
+2024-07-23 20:54,Other,Northside Hospital Gwinnett,1,1,0.73704165
+2024-07-23 21:21,ICU/PCU,UNC Medical Center,1,1,0.73704165
+2024-07-23 21:21,Other,Wayne UNC Health Care,1,1,0.73704165
+2024-07-23 22:32,Other,Monument Health,1,1,0.8004481
+2024-07-23 22:32,Other,Monument Health,1,1,0.8004481
+2024-07-23 23:45,med/surgery,Unity Hospital,0,0,0.28939918
+2024-07-24 00:21,med/surgery,TNNAS ST Rutherford Hospital,1,1,0.768957
+2024-07-24 00:21,med/surgery,TNNAS ST West Hospital,1,1,0.8004481
+2024-07-24 00:21,med/surgery,TNNAS ST West Hospital,1,1,0.768957
+2024-07-24 00:21,med/surgery,TNNAS ST West Hospital,1,1,0.65755683
+2024-07-24 00:21,med/surgery,TNNAS ST West Hospital,1,1,0.8002036
+2024-07-24 00:21,ER,KSWIC VC Hospitals Wichita,1,1,0.65755683
+2024-07-24 00:21,ICU/PCU,ININD St Vincent Indpls Acute,1,1,0.65755683
+2024-07-24 00:45,Other,Hackensack Meridian Health,1,1,0.65755683
+2024-07-24 00:45,Other,Hackensack Meridian Health,1,1,0.65755683
+2024-07-24 00:45,Telemetry,Hackensack Meridian Health,1,1,0.65755683
+2024-07-24 00:45,med/surgery,Carle Health,1,1,0.65755683
+2024-07-24 00:45,Other,Hackensack Meridian Health,1,1,0.65755683
+2024-07-24 09:17,ICU/PCU,Jewish Hospital,1,1,0.65755683
+2024-07-24 09:17,ICU/PCU,Jewish Hospital,0,1,0.8002036
+2024-07-24 09:17,med/surgery,Mission Hospital,0,1,0.8002036
+2024-07-24 09:28,med/surgery,UW Health University Hospital,1,1,0.73704165
+2024-07-24 09:37,ICU/PCU,MUSC Health Charleston,0,1,0.63651943
+2024-07-24 09:37,Other,PHP Miami Valley Hospital,0,0,0.47470957
+2024-07-24 09:37,ICU/PCU,PHP Miami Valley Hospital,1,1,0.609343
+2024-07-24 09:37,med/surgery,Unity Hospital,1,1,0.8872517
+2024-07-24 09:49,med/surgery,Glens Falls Hospital,0,0,0.28479573
+2024-07-24 09:49,med/surgery,Glens Falls Hospital,1,1,0.80913943
+2024-07-24 09:49,med/surgery,Glens Falls Hospital,1,1,0.80913943
+2024-07-24 09:49,med/surgery,Glens Falls Hospital,1,1,0.96493053
+2024-07-24 09:49,med/surgery,Glens Falls Hospital,1,1,0.80872315
+2024-07-24 09:49,med/surgery,Glens Falls Hospital,1,1,0.8121513
+2024-07-24 09:49,ICU/PCU,Glens Falls Hospital,1,1,0.8121513
+2024-07-24 09:50,Other,Glens Falls Hospital,1,1,0.8121513
+2024-07-24 09:50,med/surgery,Glens Falls Hospital,1,1,0.8121513
+2024-07-24 09:50,ER,Glens Falls Hospital,1,1,0.5656212
+2024-07-24 09:50,ER,Glens Falls Hospital,1,1,0.6386321
+2024-07-24 09:52,med/surgery,Glens Falls Hospital,1,1,0.8004481
+2024-07-24 09:52,med/surgery,Glens Falls Hospital,1,1,0.8004481
+2024-07-24 09:52,med/surgery,Glens Falls Hospital,1,1,0.8004481
+2024-07-24 09:52,med/surgery,Glens Falls Hospital,0,1,0.6299226
+2024-07-24 09:52,ICU/PCU,Glens Falls Hospital,1,1,0.90273964
+2024-07-24 09:52,med/surgery,Glens Falls Hospital,0,1,0.82246417
+2024-07-24 09:52,med/surgery,Glens Falls Hospital,1,1,0.89013207
+2024-07-24 09:52,med/surgery,Glens Falls Hospital,1,1,0.89013207
+2024-07-24 09:52,ICU/PCU,Glens Falls Hospital,1,1,0.8035996
+2024-07-24 09:52,Other,Glens Falls Hospital,0,0,0.2615076
+2024-07-24 10:41,ER,Walnut Creek Medical Center,1,0,0.104674056
+2024-07-24 10:41,ER,Walnut Creek Medical Center,1,1,0.96493053
+2024-07-24 10:41,ER,Walnut Creek Medical Center,1,1,0.54105246
+2024-07-24 10:41,ER,Walnut Creek Medical Center,1,0,0.2648634
+2024-07-24 10:41,ER,Walnut Creek Medical Center,1,0,0.2648634
+2024-07-24 10:41,ER,Walnut Creek Medical Center,1,0,0.2648634
+2024-07-24 10:47,ICU/PCU,D-H Medical Center,0,0,0.047021884
+2024-07-24 10:47,med/surgery,D-H Medical Center,1,0,0.2648634
+2024-07-24 10:47,Other,D-H Medical Center,1,0,0.2648634
+2024-07-24 10:47,med/surgery,D-H Medical Center,1,0,0.2648634
+2024-07-24 10:47,med/surgery,D-H Medical Center,0,0,0.111117445
+2024-07-24 10:47,Other,D-H Medical Center,0,0,0.111117445
+2024-07-24 10:47,Other,D-H Medical Center,1,0,0.2648634
+2024-07-24 10:47,med/surgery,D-H Medical Center,1,0,0.07316781
+2024-07-24 10:47,Labor/Delivery,D-H Medical Center,0,0,0.07316781
+2024-07-24 10:47,med/surgery,D-H Medical Center,1,0,0.2648634
+2024-07-24 12:48,med/surgery,Rochester General Hospital,1,0,0.2648634
+2024-07-24 15:02,ICU/PCU,Monument Health,1,0,0.2648634
+2024-07-24 17:24,Stepdown,UNC Medical Center,1,0,0.2648634
+2024-07-24 19:01,Other,Carle Health,0,0,0.047021884
+2024-07-24 20:00,Telemetry, MercyOne Des Moines Medical Center,1,0,0.2648634
+2024-07-24 21:22,ICU/PCU,UNC Medical Center,1,0,0.2648634
+2024-07-24 22:02,Telemetry,Monument Health,0,0,0.2648634
+2024-07-24 22:56,ER,Northside Hospital Gwinnett,0,0,0.047021884
+2024-07-24 22:56,Other,Northside Hospital Gwinnett,1,0,0.31075716
+2024-07-24 22:57,med/surgery,Northside Hospital Forsyth,1,0,0.31075716
+2024-07-24 22:57,Other,Northside Hospital Gwinnett,0,0,0.31075716
+2024-07-24 22:57,Other,Northside Hospital Atlanta,0,0,0.31075716
+2024-07-24 22:57,ER,Northside Hospital Gwinnett,0,0,0.31075716
+2024-07-24 22:57,med/surgery,Rochester General Hospital,0,0,0.31075716
+2024-07-24 22:57,Stepdown,Rochester General Hospital,1,1,0.6101864
+2024-07-24 22:57,ER,Northside Hospital Atlanta,0,0,0.053534042
+2024-07-24 22:57,ER,Northside Hospital Atlanta,0,1,0.6101864
+2024-07-25 07:20,Other,University Hospital,0,0,0.2736198
+2024-07-25 07:20,ER,Mission Hospital,0,1,0.6101864
+2024-07-25 07:20,Telemetry,WellSpan York Hospital,0,1,0.6101864
+2024-07-25 07:54,Telemetry,The Cleveland Clinic Main Campus,0,0,0.2736198
+2024-07-25 07:54,Stepdown,MUSC Health Charleston,0,1,0.6101864
+2024-07-25 08:05,med/surgery,Glens Falls Hospital,0,0,0.04598435
+2024-07-25 08:05,Other,Glens Falls Hospital,0,0,0.2736198
+2024-07-25 08:29,ICU/PCU,ININD St Vincent Indpls Acute,1,1,0.949481
+2024-07-25 08:29,ER,OKTUL St John Medical Center,1,1,0.9173512
+2024-07-25 13:11,Telemetry,The Cleveland Clinic Main Campus,1,1,0.8491929
+2024-07-25 15:10,Telemetry,IA_Iowa Methodist Medical Center (IMMC),1,1,0.86963403
+2024-07-25 15:10,ICU/PCU,IA_Iowa Methodist Medical Center (IMMC),0,1,0.51455915
+2024-07-25 17:05,Other,Carle Health,1,1,0.8872517
+2024-07-25 17:05,Other,Carle Health,0,0,0.31108186
+2024-07-25 17:05,med/surgery,Carle Health,1,0,0.14075758
+2024-07-25 17:05,med/surgery,Carle Health,1,1,0.609343
+2024-07-25 17:25,Other,UNC Medical Center,1,0,0.14075758
+2024-07-25 17:25,med/surgery,UNC Medical Center,1,0,0.3390231
+2024-07-25 17:25,ICU/PCU,UNC Medical Center,1,0,0.3390231
+2024-07-25 18:48,Other,Unity Hospital,0,1,0.5822623
+2024-07-25 18:48,med/surgery,Unity Hospital,1,1,0.86987233
+2024-07-25 18:48,med/surgery,Unity Hospital,1,1,0.609343
+2024-07-25 18:48,med/surgery,Unity Hospital,0,1,0.645458
+2024-07-25 18:48,med/surgery,Unity Hospital,1,1,0.949481
+2024-07-25 18:48,med/surgery,MVHS Inc.,0,0,0.055352252
+2024-07-25 18:48,Other,Lawrence General Hospital,1,1,0.7101134
+2024-07-25 18:48,med/surgery,MVHS Inc.,0,0,0.33169812
+2024-07-25 19:25,med/surgery,UNC Medical Center,1,1,0.73704165
+2024-07-25 19:49,Other,IA_Iowa Methodist Medical Center (IMMC),0,0,0.09440827
+2024-07-25 20:08,Telemetry,IA_St. Luke's Regional Medical Center (RMC),0,0,0.07316781
+2024-07-25 22:42,Other,Carle Health,0,0,0.2648634
+2024-07-25 23:15,Other,The Cleveland Clinic Main Campus,1,1,0.6386321
+2024-07-25 23:23,Other,UNC Rex,0,1,0.7051837
+2024-07-25 23:23,med/surgery,UNC Medical Center,1,1,0.73704165
+2024-07-26 00:34,ER,Unity Hospital,0,0,0.20413965
+2024-07-26 07:12,ICU/PCU,UW Health University Hospital,0,0,0.15371723
+2024-07-26 08:02,ER,Monument Health,1,1,0.86963403
+2024-07-26 11:05,ER,Mission Hospital,1,1,0.86963403
+2024-07-26 11:08,med/surgery,Albany Medical Center ,1,1,0.90273964
+2024-07-26 11:08,med/surgery,Albany Medical Center ,1,1,0.90273964
+2024-07-26 13:14,ER,CHI Health Creighton University Medical Center - Bergan Mercy,1,1,0.78036594
+2024-07-26 14:36,ER,Massachusetts General Hospital(MGH),1,1,0.8872517
+2024-07-26 14:36,Other,Brigham & Women's Hospital(BWH),1,1,0.94905394
+2024-07-26 14:36,ER,Brigham & Women's Hospital(BWH),0,1,0.737361
+2024-07-26 14:36,ER,KSWIC VC Hospitals Wichita,1,1,0.96493053
+2024-07-26 15:01,Other,Glens Falls Hospital,1,1,0.96493053
+2024-07-26 19:56,Other,Unity Hospital,1,1,0.96493053
+2024-07-26 19:57,med/surgery,Rochester General Hospital,1,1,0.96493053
+2024-07-26 19:57,med/surgery,Rochester General Hospital,0,0,0.47470957
+2024-07-26 19:57,med/surgery,Rochester General Hospital,1,1,0.90512013
+2024-07-26 19:57,med/surgery,Rochester General Hospital,1,1,0.90512013
+2024-07-26 19:57,med/surgery,Rochester General Hospital,1,1,0.94905394
+2024-07-26 19:57,med/surgery,Rochester General Hospital,1,0,0.3075999
+2024-07-26 19:57,med/surgery,Unity Hospital,0,1,0.5561641
+2024-07-26 20:19,ICU/PCU,Hackensack Meridian Health,1,1,0.86963403
+2024-07-26 21:24,med/surgery,UNC Rex,0,0,0.21207814
+2024-07-26 21:24,med/surgery,UNC Rex,1,1,0.94905394
+2024-07-26 21:24,med/surgery,UNC Medical Center,0,1,0.64874655
+2024-07-26 23:24,ER,UNC Medical Center,1,1,0.75305337
+2024-07-27 02:00,Other, MercyOne North Iowa Medical Center,1,0,0.26885387
+2024-07-28 10:00,med/surgery,MVHS Inc.,0,1,0.5845543
+2024-07-28 10:00,Other,MVHS Inc.,1,1,0.7101134
+2024-07-28 10:00,Other,MVHS Inc.,1,1,0.92034924
+2024-07-28 10:00,med/surgery,MVHS Inc.,1,1,0.92034924
+2024-07-28 10:00,med/surgery,MVHS Inc.,0,0,0.34574205
+2024-07-28 15:12,ER,Northside Hospital Gwinnett,0,0,0.22324938
+2024-07-28 15:12,Other,Northside Hospital Gwinnett,0,0,0.49595368
+2024-07-28 15:12,med/surgery,Northside Hospital Forsyth,0,0,0.27996466
+2024-07-28 15:12,Other,Northside Hospital Gwinnett,1,1,0.5656212
+2024-07-28 15:12,Other,Northside Hospital Atlanta,0,0,0.07316781
+2024-07-28 15:12,ER,Northside Hospital Gwinnett,0,1,0.737361
+2024-07-28 15:12,med/surgery,Northside Hospital Forsyth,1,1,0.949481
+2024-07-28 15:12,ER,Northside Hospital Gwinnett,1,1,0.949481
+2024-07-28 15:12,Other,Northside Hospital Gwinnett,1,1,0.949481
+2024-07-28 15:12,Other,Northside Hospital Gwinnett,1,1,0.949481
+2024-07-29 06:01,med/surgery,CHI Health Creighton University Medical Center - Bergan Mercy,1,1,0.96493053
+2024-07-29 06:08,ER,Albany Medical Center ,1,1,0.949481
+2024-07-29 06:08,ICU/PCU,Jewish Hospital,1,1,0.949481
+2024-07-29 06:08,ICU/PCU,Jewish Hospital,1,1,0.6845972
+2024-07-29 06:09,ICU/PCU,Jewish Hospital,0,1,0.6568247
+2024-07-29 06:09,med/surgery,Albany Medical Center ,1,1,0.94905394
+2024-07-29 06:09,ICU/PCU,Jewish Hospital,0,1,0.6568247
+2024-07-29 06:47,Other,IA_Allen Hospital,0,1,0.79696983
+2024-07-29 07:51,Other,Salem Hospital(NSMC),0,1,0.50674635
+2024-07-29 07:51,ICU/PCU,TNNAS ST West Hospital,1,1,0.90512013
+2024-07-29 07:51,Stepdown,TNNAS ST Rutherford Hospital,1,1,0.90512013
+2024-07-29 07:51,Stepdown,TNNAS ST Rutherford Hospital,0,1,0.78702813
+2024-07-29 07:51,Stepdown,TNNAS ST Rutherford Hospital,0,1,0.78702813
+2024-07-29 07:51,med/surgery,TNNAS ST Rutherford Hospital,1,1,0.90512013
+2024-07-29 07:51,Stepdown,WIMIL CSM Milwaukee Hosp,1,0,0.14075758
+2024-07-29 07:51,Stepdown,WIMIL CSM Milwaukee Hosp,1,1,0.609343
+2024-07-29 07:51,ICU/PCU,WIMIL CSM Milwaukee Hosp,0,1,0.645458
+2024-07-29 07:51,ICU/PCU,ININD St Vincent Indpls Acute,1,1,0.86987233
+2024-07-29 07:51,med/surgery,OKTUL St John Medical Center,1,0,0.14075758
+2024-07-29 11:01,ICU/PCU,Walnut Creek Medical Center,0,1,0.645458
+2024-07-29 11:01,Other,Walnut Creek Medical Center,0,0,0.14075758
+2024-07-29 14:56,Other,Hackensack Meridian Health,1,1,0.609343
+2024-07-29 14:56,med/surgery,Carle Health,1,1,0.609343
+2024-07-29 16:07,Telemetry,The Cleveland Clinic Main Campus,1,1,0.609343
+2024-07-29 17:00,med/surgery, MercyOne North Iowa Medical Center,0,0,0.43849352
+2024-07-29 17:00,med/surgery, MercyOne Des Moines Medical Center,1,1,0.8534824
+2024-07-29 17:26,med/surgery,Wayne UNC Health Care,1,1,0.89013207
+2024-07-29 17:26,med/surgery,Wayne UNC Health Care,1,1,0.89013207
+2024-07-29 17:30,ICU/PCU,Hackensack Meridian Health,1,1,0.92034924
+2024-07-29 19:32,ICU/PCU,Monument Health,1,1,0.89013207
+2024-07-29 20:05,med/surgery,MUSC Health Charleston,1,1,0.89013207
+2024-07-29 20:53,med/surgery,Carle Health,1,0,0.18624455
+2024-07-29 20:53,med/surgery,Carle Health,1,1,0.87502253
+2024-07-29 20:53,med/surgery,Carle Health,1,1,0.732403
+2024-07-29 22:05,med/surgery,MUSC Health Charleston,1,1,0.86555684
+2024-07-30 10:29,ER,Brigham & Women's Hospital(BWH),0,0,0.12021736
+2024-07-30 10:29,med/surgery,Brigham & Women's Hospital(BWH),0,1,0.87502253
+2024-07-30 10:29,Other,Massachusetts General Hospital(MGH),0,0,0.12021736
+2024-07-30 10:29,Stepdown,WIMIL CSM Milwaukee Hosp,0,0,0.12021736
+2024-07-30 10:29,med/surgery,TNNAS ST Rutherford Hospital,0,0,0.13076153
+2024-07-30 10:29,med/surgery,Massachusetts General Hospital(MGH),1,1,0.80872315
+2024-07-30 10:29,med/surgery,Massachusetts General Hospital(MGH),0,1,0.8189579
+2024-07-30 10:29,Stepdown,WIMIL CSM Milwaukee Hosp,0,1,0.6386321
+2024-07-30 11:27,ER,MVHS Inc.,0,0,0.22162502
+2024-07-30 11:31,ER,Albany Medical Center ,0,0,0.15107638
+2024-07-30 11:31,ER,Albany Medical Center ,1,1,0.8004481
+2024-07-30 11:31,ER,Albany Medical Center ,1,1,0.90273964
+2024-07-30 11:31,ER,Albany Medical Center ,0,0,0.35927597
+2024-07-30 11:31,ICU/PCU,University Hospital,1,1,0.73704165
+2024-07-30 11:31,med/surgery,Albany Medical Center ,0,1,0.7349457
+2024-07-30 11:32,med/surgery,Albany Medical Center ,0,1,0.78243816
+2024-07-30 11:32,med/surgery,Albany Medical Center ,1,1,0.7827037
+2024-07-30 11:32,med/surgery,University Hospital,1,1,0.7827037
+2024-07-30 11:32,med/surgery,University Hospital,1,1,0.6845972
+2024-07-30 11:32,med/surgery,University Hospital,1,1,0.7975679
+2024-07-30 11:32,Other,Albany Medical Center ,0,1,0.5561641
+2024-07-30 14:42,Telemetry,The Cleveland Clinic Main Campus,1,1,0.9173512
+2024-07-30 14:43,Telemetry,The Cleveland Clinic Main Campus,0,1,0.606456
+2024-07-30 14:48,Other,CHI Health Creighton University Medical Center - Bergan Mercy,0,0,0.18624455
+2024-07-30 15:26,med/surgery,Wayne UNC Health Care,1,1,0.90273964
+2024-07-30 15:39,med/surgery,UW Health University Hospital,1,1,0.90273964
+2024-07-30 16:10,Other,Hackensack Meridian Health,1,1,0.90273964
+2024-07-30 16:10,ICU/PCU,Hackensack Meridian Health,0,1,0.606456
+2024-07-30 16:10,Other,Hackensack Meridian Health,1,0,0.2660105
+2024-07-30 17:00,Telemetry, MercyOne Des Moines Medical Center,0,0,0.22324938
+2024-07-30 18:32,ICU/PCU,Monument Health,0,0,0.3522956
+2024-07-30 18:46,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,0,0.34472176
+2024-07-30 18:48,Other,Carle Health,0,0,0.2660105
+2024-07-30 18:49,med/surgery,Hackensack Meridian Health,0,1,0.87502253
+2024-07-30 20:49,med/surgery,MUSC Health Charleston,1,1,0.80872315
+2024-07-30 21:01,Stepdown,CHI Health Creighton University Medical Center - Bergan Mercy,0,1,0.87502253
+2024-07-30 21:01,Stepdown,CHI Health Creighton University Medical Center - Bergan Mercy,0,1,0.8269366
+2024-07-30 21:02,Stepdown,CHI Health Creighton University Medical Center - Bergan Mercy,1,1,0.8534824
+2024-07-30 21:02,Stepdown,CHI Health Creighton University Medical Center - Bergan Mercy,1,1,0.8534824
+2024-07-30 21:02,ER,CHI Health Creighton University Medical Center - Bergan Mercy,1,1,0.8534824
+2024-07-30 23:46,Other,Carle Health,1,1,0.8379768
+2024-07-31 00:36,med/surgery,Rochester General Hospital,1,1,0.92034924
+2024-07-31 00:36,med/surgery,Rochester General Hospital,1,1,0.8534824
+2024-07-31 00:36,med/surgery,Rochester General Hospital,1,1,0.92034924
+2024-07-31 00:36,med/surgery,Northside Hospital Forsyth,1,1,0.92034924
+2024-07-31 02:38,ICU/PCU,KSWIC VC Hospitals Wichita,1,0,0.14928013
+2024-07-31 02:38,med/surgery,KSWIC VC Hospitals Wichita,1,0,0.14928013
+2024-07-31 02:38,med/surgery,KSWIC VC Hospitals Wichita,0,0,0.14928013
+2024-07-31 02:38,med/surgery,KSWIC VC Hospitals Wichita,0,1,0.6856952
+2024-07-31 02:39,Other,ININD St Vincent Indpls Acute,1,1,0.73704165
+2024-07-31 04:48,med/surgery,Hackensack Meridian Health,1,1,0.73704165
+2024-07-31 06:23,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,1,0.59893584
+2024-07-31 07:41,med/surgery,ININD St Vincent Indpls Acute,1,1,0.7827037
+2024-07-31 11:52,med/surgery,Albany Medical Center ,1,1,0.8035996
+2024-07-31 15:02,ICU/PCU,Monument Health,0,0,0.15371723
+2024-07-31 15:25,med/surgery,UNC Medical Center,1,1,0.6845972
+2024-07-31 15:25,med/surgery,Wayne UNC Health Care,1,1,0.8004481
+2024-07-31 15:25,med/surgery,Wayne UNC Health Care,1,1,0.8004481
+2024-07-31 15:46,ER,KSWIC VC Hospitals Wichita,0,1,0.51455915
+2024-07-31 15:46,ER,KSWIC VC Hospitals Wichita,1,1,0.9173512
+2024-07-31 15:46,ER,KSWIC VC Hospitals Wichita,1,1,0.7975679
+2024-07-31 16:05,ER,CHI Health Creighton University Medical Center - Bergan Mercy,1,1,0.86963403
+2024-07-31 16:16,Other,Hackensack Meridian Health,1,1,0.768957
+2024-07-31 16:32,ICU/PCU,Monument Health,0,1,0.606456
+2024-07-31 16:32,ICU/PCU,Monument Health,0,1,0.67601067
+2024-07-31 16:32,ICU/PCU,Monument Health,0,1,0.67601067
+2024-07-31 16:32,ICU/PCU,Monument Health,0,1,0.67601067
+2024-07-31 16:32,ICU/PCU,Monument Health,0,1,0.67601067
+2024-07-31 16:32,ER,Monument Health,0,0,0.34574205
+2024-07-31 17:00,med/surgery,Glens Falls Hospital,1,1,0.86963403
+2024-07-31 17:00,med/surgery,Glens Falls Hospital,1,1,0.949481
+2024-07-31 17:00,Telemetry,Glens Falls Hospital,1,1,0.949481
+2024-07-31 17:00,Telemetry,Glens Falls Hospital,1,1,0.949481
+2024-07-31 17:00,Telemetry,Glens Falls Hospital,0,1,0.645458
+2024-07-31 17:01,ER,Glens Falls Hospital,1,1,0.63660395
+2024-07-31 17:24,med/surgery,UNC Medical Center,1,1,0.9640604
+2024-07-31 17:32,ICU/PCU,Monument Health,1,1,0.9640604
+2024-07-31 18:07,ICU/PCU,CHI Health Creighton University Medical Center - Bergan Mercy,1,1,0.9640604
+2024-07-31 19:25,med/surgery,UNC Medical Center,0,0,0.13366881
+2024-07-31 19:28,Other,Hackensack Meridian Health,1,1,0.768957
+2024-07-31 20:32,Other,Monument Health,1,1,0.7975679
+2024-07-31 21:24,med/surgery,Wayne UNC Health Care,1,1,0.5833066
+2024-07-31 23:22,Other,IA_Iowa Methodist Medical Center (IMMC),1,1,0.85183686
+2024-07-31 23:25,ICU/PCU,UNC Medical Center,1,1,0.92034924
+2024-07-31 23:56,med/surgery,TNNAS ST West Hospital,1,1,0.9173512
+2024-07-31 23:56,ICU/PCU,OKTUL St John Medical Center,1,1,0.7827037
+2024-07-31 23:56,ICU/PCU,OKTUL St John Medical Center,1,1,0.7827037
+2024-07-31 23:56,med/surgery,KSWIC VC Hospitals Wichita,1,1,0.94905394
+2024-08-01 03:25,ICU/PCU,UNC Medical Center,0,0,0.2660105
+2024-08-01 03:25,ICU/PCU,UNC Medical Center,1,1,0.5656212
+2024-08-01 05:12,ER,Rochester General Hospital,1,1,0.5656212
+2024-08-01 05:12,ER,Northside Hospital Forsyth,1,1,0.5656212
+2024-08-01 05:12,ER,Northside Hospital Gwinnett,0,0,0.34574205
+2024-08-01 05:12,ER,Northside Hospital Gwinnett,1,1,0.8004481
+2024-08-01 05:12,ER,Northside Hospital Atlanta,1,1,0.9173512
+2024-08-01 06:54,ICU/PCU,PHP Miami Valley Hospital,1,1,0.9173512
+2024-08-01 08:55,Telemetry,OKTUL St John Medical Center,1,1,0.9173512
+2024-08-01 08:55,ER,Massachusetts General Hospital(MGH),1,1,0.9173512
+2024-08-01 10:00,ER,IL_Trinity Rock Island,0,1,0.5845543
+2024-08-01 13:02,ER,Albany Medical Center ,1,1,0.9173512
+2024-08-01 13:02,ER,WellSpan York Hospital,0,0,0.2648634
+2024-08-01 15:51,ICU/PCU,ININD St Vincent Indpls Acute,0,0,0.0651399
+2024-08-01 15:53,Stepdown,PHP Miami Valley Hospital,0,0,0.0651399
+2024-08-01 17:55,Telemetry,The Cleveland Clinic Main Campus,0,0,0.0651399
+2024-08-01 17:55,Telemetry,The Cleveland Clinic Main Campus,0,0,0.2648634
+2024-08-01 17:56,Telemetry,The Cleveland Clinic Main Campus,0,0,0.111117445
+2024-08-01 19:56,Telemetry,The Cleveland Clinic Main Campus,1,1,0.94905394
+2024-08-01 20:02,med/surgery,IA_St. Luke's Regional Medical Center (RMC),1,1,0.9173512
+2024-08-01 20:02,Other,IA_Iowa Methodist Medical Center (IMMC),0,0,0.17258584
+2024-08-01 20:02,Other,IA_Iowa Methodist Medical Center (IMMC),1,1,0.94905394
+2024-08-01 20:02,Other,IA_Iowa Methodist Medical Center (IMMC),1,1,0.8004481
+2024-08-01 20:02,Other,IA_Allen Hospital,1,1,0.80913943
+2024-08-01 20:02,Telemetry,IA_St. Luke's Regional Medical Center (RMC),1,1,0.7827037
+2024-08-01 20:02,ICU/PCU,IA_Iowa Methodist Medical Center (IMMC),1,0,0.3075999
+2024-08-01 20:02,med/surgery,IA_St. Luke's Regional Medical Center (RMC),1,1,0.8872517
+2024-08-01 21:01,med/surgery,CHI Health Creighton University Medical Center - Bergan Mercy,1,1,0.8121513
+2024-08-01 22:29,med/surgery,IL_Trinity Rock Island,0,0,0.25995573
+2024-08-01 22:29,med/surgery,IL_Trinity Rock Island,0,0,0.25995573
+2024-08-01 22:29,med/surgery,IL_Trinity Rock Island,1,1,0.9640604
+2024-08-01 22:29,med/surgery,IL_Trinity Rock Island,1,1,0.8872517
+2024-08-01 23:23,ICU/PCU,UNC Medical Center,1,1,0.8872517
+2024-08-01 23:50,Telemetry,Salem Hospital(NSMC),0,1,0.562389
+2024-08-01 23:50,Other,Salem Hospital(NSMC),0,0,0.24237342
+2024-08-01 23:50,Other,Salem Hospital(NSMC),0,0,0.14075758
+2024-08-01 23:50,med/surgery,TNNAS ST West Hospital,0,0,0.14075758
+2024-08-02 07:56,ER,Unity Hospital,1,0,0.3390231
+2024-08-02 07:56,med/surgery,Rochester General Hospital,0,1,0.54105246
+2024-08-02 07:56,med/surgery,Rochester General Hospital,0,1,0.8263095
+2024-08-02 07:56,med/surgery,MVHS Inc.,0,0,0.49595368
+2024-08-02 08:29,ICU/PCU,Monument Health,0,1,0.6328291
+2024-08-02 08:29,ICU/PCU,Monument Health,0,1,0.59354764
+2024-08-02 08:29,Other,Monument Health,1,1,0.8534824
+2024-08-02 08:29,Other,Monument Health,0,1,0.6386321
+2024-08-02 11:02,ER,WellSpan York Hospital,1,1,0.5772158
+2024-08-02 11:02,ICU/PCU,University Hospital,1,1,0.73704165
+2024-08-02 13:51,med/surgery,Sanford Health,1,1,0.73704165
+2024-08-02 13:51,Other,Sanford Health,1,1,0.73704165
+2024-08-02 16:05,Other,Carle Health,1,1,0.73704165
+2024-08-02 16:35,ICU/PCU,MUSC Health Charleston,0,1,0.6137203
+2024-08-02 16:36,Other,MUSC Health Charleston,0,1,0.6137203
+2024-08-02 17:25,Other,UNC Medical Center,1,0,0.3075999
+2024-08-02 17:25,Stepdown,UNC Medical Center,1,0,0.3075999
+2024-08-02 17:25,med/surgery,UNC Medical Center,1,0,0.3075999
+2024-08-02 17:25,Other,UNC Medical Center,0,0,0.18624455
+2024-08-02 20:00,med/surgery, MercyOne North Iowa Medical Center,0,1,0.5561641
+2024-08-02 21:31,Other,Monument Health,0,0,0.15371723
+2024-08-02 21:31,ICU/PCU,Monument Health,0,0,0.43849352
+2024-08-03 16:24,Other,IA_St. Luke's Regional Medical Center (RMC),1,1,0.85183686
+2024-08-05 07:01,ER,Mission Hospital,1,1,0.85183686
+2024-08-05 07:02,ICU/PCU,Jewish Hospital,1,1,0.85183686
+2024-08-05 07:02,ICU/PCU,Jewish Hospital,0,1,0.85183686
+2024-08-05 07:02,med/surgery,Jewish Hospital,0,1,0.8872517
+2024-08-05 07:02,ICU/PCU,Jewish Hospital,1,1,0.732403
+2024-08-05 07:02,ICU/PCU,Jewish Hospital,1,1,0.8121513
+2024-08-05 07:02,ICU/PCU,Jewish Hospital,1,1,0.8436211
+2024-08-05 07:02,ICU/PCU,Jewish Hospital,0,1,0.732403
+2024-08-05 08:00,ER,Massachusetts General Hospital(MGH),1,1,0.90512013
+2024-08-05 08:00,ICU/PCU,Salem Hospital(NSMC),1,1,0.949481
+2024-08-05 08:00,ER,Salem Hospital(NSMC),0,1,0.75305337
+2024-08-05 08:00,ER,Salem Hospital(NSMC),1,1,0.949481
+2024-08-05 08:00,med/surgery,WIMIL CSM Milwaukee Hosp,1,1,0.9173512
+2024-08-05 08:00,Stepdown,WIMIL CSM Milwaukee Hosp,1,1,0.9173512
+2024-08-05 08:00,med/surgery,ININD St Vincent Indpls Acute,1,1,0.80913943
+2024-08-05 16:05,med/surgery,ININD St Vincent Indpls Acute,1,1,0.80913943
+2024-08-05 16:07,Other,Carle Health,0,1,0.59354764
+2024-08-05 16:16,Other,UW Health University Hospital,1,1,0.8379768
+2024-08-05 18:06,Telemetry,The Cleveland Clinic Main Campus,1,1,0.8534824
+2024-08-05 18:06,Telemetry,The Cleveland Clinic Main Campus,1,1,0.7611775
+2024-08-05 18:07,Stepdown,The Cleveland Clinic Main Campus,0,1,0.6944415
+2024-08-05 18:09,Telemetry,The Cleveland Clinic Main Campus,1,1,0.86963403
+2024-08-05 18:10,Telemetry,The Cleveland Clinic Main Campus,0,0,0.104674056
+2024-08-05 18:10,Telemetry,The Cleveland Clinic Main Campus,0,0,0.15757611
+2024-08-05 18:18,med/surgery,UW Health University Hospital,1,1,0.78036594
+2024-08-05 18:18,Other,UW Health University Hospital,1,1,0.8491929
+2024-08-05 19:24,med/surgery,Wayne UNC Health Care,1,1,0.94905394
+2024-08-05 19:24,med/surgery,Wayne UNC Health Care,1,1,0.78036594
+2024-08-05 20:07,Telemetry,The Cleveland Clinic Main Campus,0,1,0.7349457
+2024-08-05 22:08,Stepdown,The Cleveland Clinic Main Campus,1,1,0.80913943
+2024-08-05 22:09,Telemetry,The Cleveland Clinic Main Campus,1,1,0.9173512
+2024-08-05 22:18,med/surgery,Carle Health,0,0,0.34922773
+2024-08-05 22:18,med/surgery,Carle Health,1,1,0.7101134
+2024-08-05 22:19,med/surgery,Carle Health,1,1,0.89013207
+2024-08-05 22:19,med/surgery,Carle Health,1,1,0.89013207
+2024-08-05 22:19,med/surgery,Carle Health,1,1,0.89013207
+2024-08-05 23:51,med/surgery,Unity Hospital,1,1,0.89013207
+2024-08-05 23:51,med/surgery,MVHS Inc.,1,1,0.89013207
+2024-08-06 00:02,Other,WIMIL CSM Milwaukee Hosp,1,1,0.89013207
+2024-08-06 00:02,ER,OKTUL St John Medical Center,0,0,0.3656113
+2024-08-06 00:02,Telemetry,OKTUL St John Medical Center,0,0,0.4188631
+2024-08-06 00:02,med/surgery,OKTUL St John Medical Center,0,0,0.49595368
+2024-08-06 00:02,ICU/PCU,KSWIC VC Hospitals Wichita,0,0,0.493681
+2024-08-06 00:03,ER,OKTUL St John Medical Center,1,1,0.79611725
+2024-08-06 00:03,ER,KSWIC VC Hospitals Wichita,0,1,0.79611725
+2024-08-06 00:18,med/surgery,Carle Health,0,1,0.87502253
+2024-08-06 11:02,med/surgery,University Hospital,1,1,0.5833066
+2024-08-06 11:02,ICU/PCU,Albany Medical Center ,1,1,0.8004481
+2024-08-06 11:02,ICU/PCU,Albany Medical Center ,1,1,0.8004481
+2024-08-06 11:02,ICU/PCU,Albany Medical Center ,0,1,0.5833066
+2024-08-06 11:02,ICU/PCU,Albany Medical Center ,1,1,0.86963403
+2024-08-06 14:27,ICU/PCU,Hackensack Meridian Health,0,0,0.37856883
+2024-08-06 16:18,Other,Hackensack Meridian Health,1,1,0.73704165
+2024-08-06 17:15,med/surgery,TNNAS ST Rutherford Hospital,1,1,0.73704165
+2024-08-06 17:15,med/surgery,TNNAS ST Rutherford Hospital,1,0,0.14654921
+2024-08-06 17:26,med/surgery,Wayne UNC Health Care,1,1,0.73704165
+2024-08-06 17:26,med/surgery,Wayne UNC Health Care,1,1,0.73704165
+2024-08-06 17:28,ICU/PCU,UW Health University Hospital,1,1,0.73704165
+2024-08-06 18:24,Stepdown,OSF Healthcare,0,0,0.37856883
+2024-08-06 19:24,med/surgery,UNC Medical Center,0,1,0.8035996
+2024-08-06 20:36,med/surgery,Sanford Health,0,0,0.38249034
+2024-08-06 21:24,ICU/PCU,UNC Medical Center,1,1,0.7827037
+2024-08-06 21:33,Other,Monument Health,1,1,0.7827037
+2024-08-06 21:33,ICU/PCU,Monument Health,1,1,0.73704165
+2024-08-06 21:57,ICU/PCU,Monument Health,0,0,0.14654921
+2024-08-06 22:18,med/surgery,Carle Health,1,1,0.73704165
+2024-08-06 23:47,med/surgery,MVHS Inc.,1,1,0.90273964
+2024-08-06 23:48,med/surgery,MVHS Inc.,1,1,0.90273964
+2024-08-06 23:48,ER,Rochester General Hospital,1,1,0.90273964
+2024-08-06 23:48,med/surgery,Rochester General Hospital,1,1,0.90273964
+2024-08-06 23:48,Stepdown,Rochester General Hospital,1,1,0.90273964
+2024-08-06 23:48,Stepdown,Rochester General Hospital,1,1,0.96493053
+2024-08-06 23:48,Stepdown,Rochester General Hospital,1,1,0.90512013
+2024-08-06 23:48,med/surgery,Rochester General Hospital,0,0,0.1939915
+2024-08-06 23:48,med/surgery,Rochester General Hospital,0,1,0.7051837
+2024-08-06 23:48,med/surgery,Rochester General Hospital,0,1,0.8263095
+2024-08-06 23:48,med/surgery,Rochester General Hospital,0,1,0.8189579
+2024-08-06 23:48,ER,Northside Hospital Atlanta,0,1,0.63660395
+2024-08-07 01:14,Telemetry,Salem Hospital(NSMC),0,1,0.7051837
+2024-08-07 01:14,Telemetry,Salem Hospital(NSMC),0,1,0.5656212
+2024-08-07 01:14,Telemetry,Salem Hospital(NSMC),1,1,0.90273964
+2024-08-07 01:15,med/surgery,ININD St Vincent Indpls Acute,1,1,0.7858571
+2024-08-07 05:38,Telemetry,PHP Miami Valley Hospital,1,1,0.7858571
+2024-08-07 05:39,Stepdown,PHP Miami Valley Hospital,1,1,0.7858571
+2024-08-07 08:24,med/surgery,IA_Iowa Methodist Medical Center (IMMC),1,1,0.7858571
+2024-08-07 13:27,Other,UNC Medical Center,0,0,0.14928013
+2024-08-07 13:56,Telemetry,The Cleveland Clinic Main Campus,1,1,0.6845972
+2024-08-07 15:01,ER,Mission Hospital,1,0,0.315153
+2024-08-07 15:03,ER,Albany Medical Center ,1,1,0.8004481
+2024-08-07 15:54,med/surgery,UW Health University Hospital,1,1,0.80872315
+2024-08-07 15:54,med/surgery,UW Health University Hospital,1,1,0.80872315
+2024-08-07 15:58,Telemetry,The Cleveland Clinic Main Campus,1,1,0.7827037
+2024-08-07 17:03,ICU/PCU,Monument Health,1,1,0.7827037
+2024-08-07 17:26,med/surgery,Wayne UNC Health Care,0,0,0.26885387
+2024-08-07 19:58,Telemetry,The Cleveland Clinic Main Campus,1,0,0.4374479
+2024-08-07 20:17,Other,Hackensack Meridian Health,1,1,0.90273964
+2024-08-07 21:58,Stepdown,The Cleveland Clinic Main Campus,0,0,0.24237342
+2024-08-07 21:59,Telemetry,The Cleveland Clinic Main Campus,1,1,0.94905394
+2024-08-07 22:46,ER,Rochester General Hospital,1,1,0.7611775
+2024-08-07 22:46,Other,Northside Hospital Gwinnett,0,1,0.8872517
+2024-08-07 22:46,Other,Northside Hospital Gwinnett,1,1,0.80913943
+2024-08-07 22:46,ER,Northside Hospital Forsyth,1,1,0.9173512
+2024-08-07 22:46,Other,Northside Hospital Atlanta,1,1,0.9173512
+2024-08-07 22:46,Other,Northside Hospital Atlanta,1,1,0.90273964
+2024-08-07 22:46,Other,Northside Hospital Atlanta,1,1,0.90512013
+2024-08-07 22:46,Other,Northside Hospital Gwinnett,1,1,0.949481
+2024-08-07 22:46,med/surgery,Northside Hospital Cherokee,1,1,0.90512013
+2024-08-08 01:32,Telemetry,Salem Hospital(NSMC),0,1,0.562389
+2024-08-08 15:02,ER,Albany Medical Center ,0,1,0.949481
+2024-08-08 15:02,ER,Albany Medical Center ,0,1,0.5822623
+2024-08-08 15:02,ER,WellSpan York Hospital,0,1,0.5822623
+2024-08-08 15:03,ICU/PCU,Albany Medical Center ,0,1,0.949481
+2024-08-08 15:03,Other,Albany Medical Center ,0,1,0.5822623
+2024-08-08 17:18,ICU/PCU,Brigham & Women's Hospital(BWH),0,1,0.949481
+2024-08-08 17:29,Other,UNC Medical Center,0,0,0.3390231
+2024-08-08 17:29,med/surgery,UNC Medical Center,0,1,0.949481
+2024-08-08 17:29,Stepdown,UNC Medical Center,1,1,0.8436211
+2024-08-08 17:29,ICU/PCU,UNC Medical Center,1,1,0.8436211
+2024-08-08 17:29,Stepdown,UNC Medical Center,1,1,0.8436211
+2024-08-08 17:29,med/surgery,UNC Medical Center,0,1,0.5833066
+2024-08-08 17:29,med/surgery,UNC Medical Center,0,0,0.3131826
+2024-08-08 17:29,ER,UNC Medical Center,0,0,0.23812439
+2024-08-08 18:56,ER,Northside Hospital Atlanta,1,1,0.5772158
+2024-08-08 18:56,Other,Unity Hospital,1,1,0.7975679
+2024-08-08 18:57,med/surgery,Unity Hospital,1,1,0.78036594
+2024-08-08 18:57,med/surgery,Unity Hospital,1,1,0.73704165
+2024-08-08 18:57,med/surgery,Unity Hospital,1,1,0.7101134
+2024-08-08 18:57,ER,Unity Hospital,1,1,0.8534824
+2024-08-08 18:57,ER,Unity Hospital,0,1,0.8035996
+2024-08-08 19:46,ER,MUSC Health Charleston,0,1,0.8035996
+2024-08-08 20:12,Telemetry,IA_Allen Hospital,1,1,0.73704165
+2024-08-08 21:27,med/surgery,Wayne UNC Health Care,1,1,0.9173512
+2024-08-08 21:27,med/surgery,UNC Medical Center,1,1,0.7827037
+2024-08-08 21:49,ER,Northside Hospital Atlanta,1,1,0.73704165
+2024-08-08 23:40,Other,Glens Falls Hospital,1,1,0.8004481
+2024-08-09 01:17,ER,Salem Hospital(NSMC),0,0,0.14654921
+2024-08-09 01:17,med/surgery,Massachusetts General Hospital(MGH),1,1,0.73704165
+2024-08-09 01:17,med/surgery,Brigham & Women's Hospital(BWH),0,1,0.562389
+2024-08-09 01:17,Telemetry,Salem Hospital(NSMC),1,1,0.609343
+2024-08-09 09:57,ER,KSWIC VC Hospitals Wichita,0,0,0.24237342
+2024-08-09 10:52,ICU/PCU,Albany Medical Center ,1,1,0.86987233
+2024-08-09 10:52,ICU/PCU,Jewish Hospital,1,1,0.86987233
+2024-08-09 15:29,med/surgery,UNC Medical Center,1,1,0.609343
+2024-08-09 15:29,ICU/PCU,UNC Medical Center,0,0,0.40619016
+2024-08-09 15:29,med/surgery,UNC Medical Center,1,1,0.609343
+2024-08-09 16:15,Labor/Delivery,Hackensack Meridian Health,0,1,0.86987233
+2024-08-09 17:13,Telemetry,OSF Healthcare,1,1,0.8436211
+2024-08-09 18:12,Labor/Delivery,Hackensack Meridian Health,1,1,0.8534824
+2024-08-09 19:24,Telemetry,The Cleveland Clinic Main Campus,1,1,0.8534824
+2024-08-09 20:18,Other,Hackensack Meridian Health,0,1,0.59354764
+2024-08-09 21:26,Stepdown,UNC Medical Center,1,1,0.7858571
+2024-08-09 21:26,med/surgery,UNC Medical Center,0,1,0.6856952
+2024-08-09 21:26,med/surgery,UNC Medical Center,0,0,0.101887055
+2024-08-09 23:53,Other,Northside Hospital Gwinnett,1,1,0.8491929
+2024-08-09 23:53,med/surgery,MVHS Inc.,0,1,0.78036594
+2024-08-09 23:53,ER,MVHS Inc.,0,1,0.79696983
+2024-08-09 23:53,ER,MVHS Inc.,1,1,0.94905394
+2024-08-09 23:53,ER,MVHS Inc.,0,1,0.8491929
+2024-08-09 23:53,med/surgery,MVHS Inc.,0,1,0.8872517
+2024-08-09 23:58,Telemetry,Salem Hospital(NSMC),1,1,0.94905394
+2024-08-09 23:59,ICU/PCU,ININD St Vincent Indpls Acute,1,1,0.94905394
+2024-08-10 05:18,Stepdown,PHP Miami Valley Hospital,0,1,0.737361
+2024-08-10 05:51,Other, MercyOne North Iowa Medical Center,0,0,0.3390231
+2024-08-12 07:12,ICU/PCU,Jewish Hospital,0,1,0.75305337
+2024-08-12 07:12,ICU/PCU,University Hospital,0,1,0.96493053
+2024-08-12 07:13,ER,Albany Medical Center ,0,1,0.96493053
+2024-08-12 07:13,ICU/PCU,Jewish Hospital,0,1,0.96493053
+2024-08-12 09:04,Other,Salem Hospital(NSMC),0,1,0.75305337
+2024-08-12 09:04,Other,Salem Hospital(NSMC),0,0,0.22851145
+2024-08-12 09:04,Telemetry,Salem Hospital(NSMC),1,0,0.32808453
+2024-08-12 09:04,med/surgery,ININD St Vincent Indpls Acute,0,1,0.78243816
+2024-08-12 09:05,ICU/PCU,TNNAS ST Rutherford Hospital,1,1,0.7827037
+2024-08-12 09:05,ICU/PCU,TNNAS ST West Hospital,1,1,0.94905394
+2024-08-12 09:05,ICU/PCU,TNNAS ST West Hospital,0,0,0.3390231
+2024-08-12 09:05,ICU/PCU,ININD St Vincent Indpls Acute,0,0,0.07316781
+2024-08-12 09:49,med/surgery,Walnut Creek Medical Center,1,1,0.8436211
+2024-08-12 09:49,med/surgery,Walnut Creek Medical Center,0,0,0.3522956
+2024-08-12 13:10,med/surgery,Sanford Health,0,0,0.2660105
+2024-08-12 13:25,Other,UNC Medical Center,0,1,0.79611725
+2024-08-12 15:27,med/surgery,Wayne UNC Health Care,0,1,0.5656212
+2024-08-12 17:09,Telemetry,TNNAS ST Rutherford Hospital,1,1,0.7858571
+2024-08-12 17:09,ICU/PCU,TNNAS ST West Hospital,1,1,0.89013207
+2024-08-12 17:09,ICU/PCU,TNNAS ST Rutherford Hospital,0,1,0.8872517
+2024-08-12 17:28,med/surgery,UNC Rex,1,1,0.94905394
+2024-08-12 22:23,med/surgery,Carle Health,1,1,0.94905394
+2024-08-12 22:23,med/surgery,Carle Health,0,0,0.3230214
+2024-08-12 22:23,med/surgery,Carle Health,0,1,0.5138868
+2024-08-12 22:23,med/surgery,Carle Health,0,0,0.3230214
+2024-08-12 22:23,med/surgery,Carle Health,1,1,0.73704165
+2024-08-12 23:19,ICU/PCU,Mission Hospital,1,1,0.8004481
+2024-08-12 23:20,med/surgery,Albany Medical Center ,0,1,0.8491929
+2024-08-12 23:20,ICU/PCU,Jewish Hospital,0,1,0.94905394
+2024-08-13 12:55,med/surgery,MVHS Inc.,0,1,0.94905394
+2024-08-13 12:56,Other,Northside Hospital Gwinnett,0,1,0.609343
+2024-08-13 12:56,Other,Northside Hospital Gwinnett,0,1,0.90512013
+2024-08-13 12:56,Other,Northside Hospital Atlanta,0,1,0.8269366
+2024-08-13 12:56,Other,Northside Hospital Atlanta,0,1,0.8269366
+2024-08-13 12:56,Other,Northside Hospital Atlanta,0,1,0.8269366
+2024-08-13 12:56,Other,Northside Hospital Gwinnett,0,1,0.90512013
+2024-08-13 13:24,med/surgery,Albany Medical Center ,1,1,0.8436211
+2024-08-13 13:24,med/surgery,Albany Medical Center ,0,1,0.6386321
+2024-08-13 13:24,med/surgery,Albany Medical Center ,0,1,0.5772158
+2024-08-13 13:24,med/surgery,Albany Medical Center ,0,1,0.50674635
+2024-08-13 13:24,med/surgery,Albany Medical Center ,0,1,0.8379768
+2024-08-13 13:24,med/surgery,University Hospital,1,1,0.89013207
+2024-08-13 13:24,med/surgery,University Hospital,1,1,0.89013207
+2024-08-13 15:07,Other,IA_Allen Hospital,1,1,0.8534824
+2024-08-13 15:27,med/surgery,UNC Medical Center,0,1,0.5833066
+2024-08-13 15:27,med/surgery,UNC Medical Center,1,1,0.8436211
+2024-08-13 15:31,Other,Monument Health,0,1,0.732403
+2024-08-13 17:09,Stepdown,The Cleveland Clinic Main Campus,0,1,0.732403
+2024-08-13 18:21,Other,Carle Health,0,1,0.6386321
+2024-08-13 21:13,Other,Sanford Health,1,1,0.86555684
+2024-08-13 23:08,ER,UW Health University Hospital,0,1,0.86555684
+2024-08-13 23:29,Other,UNC Medical Center,0,1,0.6105434
+2024-08-13 23:29,Telemetry,UNC Medical Center,0,0,0.4598587
+2024-08-13 23:29,Telemetry,UNC Medical Center,0,0,0.4598587
+2024-08-13 23:29,Stepdown,UNC Medical Center,1,1,0.7611775
+2024-08-13 23:29,Other,UNC Medical Center,0,1,0.78036594
+2024-08-13 23:29,ER,Wayne UNC Health Care,1,1,0.7827037
+2024-08-13 23:29,Stepdown,UNC Medical Center,1,1,0.6845972
+2024-08-14 04:02,ER,Northside Hospital Gwinnett,0,0,0.17597155
+2024-08-14 09:00,ICU/PCU,KSWIC VC Hospitals Wichita,0,1,0.86555684
+2024-08-14 09:00,ICU/PCU,KSWIC VC Hospitals Wichita,0,1,0.6105434
+2024-08-14 09:00,ER,KSWIC VC Hospitals Wichita,0,1,0.6568247
+2024-08-14 11:00,ER,Mission Hospital,1,0,0.3075999
+2024-08-14 11:01,ER,Mercy Hospital Springfield ,1,1,0.90273964
+2024-08-14 11:01,Telemetry,Mercy Hospital Springfield ,1,1,0.90273964
+2024-08-14 11:01,Telemetry,Mercy Hospital Springfield ,1,1,0.90273964
+2024-08-14 11:01,Telemetry,Mercy Hospital Springfield ,1,1,0.90273964
+2024-08-14 11:02,ER,Albany Medical Center ,1,1,0.90273964
+2024-08-14 11:03,Stepdown,WellSpan York Hospital,1,1,0.72294796
+2024-08-14 15:13,med/surgery,OSF Healthcare,1,1,0.92034924
+2024-08-14 16:01,ICU/PCU,Monument Health,1,1,0.89013207
+2024-08-14 17:13,med/surgery,Sanford Health,0,1,0.90512013
+2024-08-14 20:14,ICU/PCU,Hackensack Meridian Health,0,1,0.609343
+2024-08-14 23:12,ICU/PCU,Sanford Health,0,1,0.609343
+2024-08-14 23:59,Other,Unity Hospital,0,1,0.86987233
+2024-08-14 23:59,ER,Northside Hospital Atlanta,0,1,0.86987233
+2024-08-15 00:44,ER,Salem Hospital(NSMC),0,1,0.609343
+2024-08-15 12:08,ER,Mission Hospital,0,1,0.86987233
+2024-08-15 12:10,Stepdown,WellSpan York Hospital,1,1,0.92034924
+2024-08-15 14:14,med/surgery,Carle Health,1,1,0.92034924
+2024-08-15 18:17,Other,Carle Health,1,1,0.92034924
+2024-08-15 18:17,med/surgery,Carle Health,1,1,0.92034924
+2024-08-15 18:17,med/surgery,Carle Health,1,1,0.92034924
+2024-08-15 20:17,med/surgery,Carle Health,0,0,0.14928013
+2024-08-15 22:13,Telemetry,Hackensack Meridian Health,0,0,0.14928013
+2024-08-15 23:11,ER,UW Health University Hospital,0,0,0.18624455
+2024-08-15 23:48,ER,Salem Hospital(NSMC),0,1,0.94905394
+2024-08-15 23:48,med/surgery,Massachusetts General Hospital(MGH),0,1,0.94905394
+2024-08-16 05:06,Stepdown,PHP Miami Valley Hospital,0,1,0.80913943
+2024-08-16 11:22,ICU/PCU,Jewish Hospital,0,0,0.14654921
+2024-08-16 15:03,med/surgery,PHP Miami Valley Hospital,1,1,0.86963403
+2024-08-16 15:07,Telemetry,The Cleveland Clinic Main Campus,0,1,0.7827037
+2024-08-16 16:17,Other,Carle Health,0,1,0.6944415
+2024-08-16 16:17,ICU/PCU,Hackensack Meridian Health,1,1,0.90273964
+2024-08-16 17:32,med/surgery,IL_Trinity Rock Island,1,0,0.32808453
+2024-08-16 18:19,Other,Carle Health,1,0,0.49100396
+2024-08-16 18:20,ER,Carle Health,0,1,0.78036594
+2024-08-16 19:25,Other,The Cleveland Clinic Main Campus,0,1,0.78036594
+2024-08-16 21:25,Telemetry,The Cleveland Clinic Main Campus,0,1,0.8491929
+2024-08-17 05:23,ICU/PCU,PHP Miami Valley Hospital,0,1,0.6789692
+2024-08-17 16:14,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,1,0.6789692
+2024-08-17 16:14,ER,IL_Trinity Rock Island,0,0,0.26372108
+2024-08-17 18:43,Labor/Delivery,IA_Iowa Methodist Medical Center (IMMC),0,1,0.8491929
+2024-08-17 18:43,med/surgery,IA_Iowa Methodist Medical Center (IMMC),1,1,0.90273964
+2024-08-17 18:43,Other,IA_Iowa Methodist Medical Center (IMMC),0,0,0.14075758
+2024-08-17 18:43,med/surgery,IA_St. Luke's Regional Medical Center (RMC),0,1,0.63660395
+2024-08-17 18:43,Other,IA_Iowa Methodist Medical Center (IMMC),0,1,0.63660395
+2024-08-17 23:39,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,1,0.5656212
+2024-08-18 10:47,Telemetry,Salem Hospital(NSMC),1,1,0.7101134
+2024-08-19 14:03,ICU/PCU,D-H Medical Center,0,1,0.60771453
+2024-08-19 16:26,Other,Hackensack Meridian Health,1,1,0.6476473
+2024-08-19 16:26,ICU/PCU,Hackensack Meridian Health,1,1,0.6476473
+2024-08-19 18:35,ICU/PCU,Monument Health,0,1,0.6476473
+2024-08-19 22:29,ER,Carle Health,1,1,0.8534824
+2024-08-19 22:29,med/surgery,Carle Health,0,0,0.34716743
+2024-08-19 22:29,Other,Carle Health,0,1,0.8002036
+2024-08-19 22:29,med/surgery,Carle Health,1,1,0.9173512
+2024-08-19 22:29,Other,Carle Health,1,1,0.7611775
+2024-08-19 23:15,med/surgery,TNNAS ST Rutherford Hospital,1,1,0.6845972
+2024-08-19 23:15,med/surgery,TNNAS ST Rutherford Hospital,0,0,0.31183964
+2024-08-20 08:05,med/surgery,TNNAS ST West Hospital,0,1,0.737361
+2024-08-20 08:05,med/surgery,TNNAS ST West Hospital,0,0,0.3390231
+2024-08-20 08:07,ICU/PCU,UW Health University Hospital,0,1,0.79611725
+2024-08-20 08:30,Other,Carle Health,0,1,0.6476473
+2024-08-20 08:30,Other,Carle Health,0,1,0.7101134
+2024-08-20 13:17,med/surgery,Albany Medical Center ,0,0,0.34716743
+2024-08-20 13:18,ICU/PCU,Albany Medical Center ,1,1,0.90273964
+2024-08-20 13:18,ICU/PCU,Albany Medical Center ,1,0,0.49100396
+2024-08-20 20:32,Other,Hackensack Meridian Health,0,0,0.49100396
+2024-08-20 20:32,med/surgery,Carle Health,0,0,0.24327691
+2024-08-20 20:32,Other,Hackensack Meridian Health,1,1,0.90273964
+2024-08-20 20:32,Other,Hackensack Meridian Health,0,1,0.5561641
+2024-08-20 20:32,med/surgery,Carle Health,1,1,0.86963403
+2024-08-20 21:08,med/surgery,Wayne UNC Health Care,1,1,0.90273964
+2024-08-20 22:33,med/surgery,Hackensack Meridian Health,1,1,0.90273964
+2024-08-20 22:33,med/surgery,Hackensack Meridian Health,1,1,0.90273964
+2024-08-20 22:33,med/surgery,Carle Health,1,1,0.90273964
+2024-08-21 02:30,Labor/Delivery,Hackensack Meridian Health,0,1,0.6299226
+2024-08-21 05:05,Stepdown,PHP Miami Valley Hospital,0,0,0.49100396
+2024-08-21 05:08,ICU/PCU,MUSC Health Charleston,0,1,0.79611725
+2024-08-21 06:25,Other,Brigham & Women's Hospital(BWH),0,0,0.2660105
+2024-08-21 08:02,ER,Lawrence General Hospital,0,1,0.5772158
+2024-08-21 08:02,Other,Lawrence General Hospital,0,1,0.89013207
+2024-08-21 14:07,Other,Brigham & Women's Hospital(BWH),0,0,0.33143085
+2024-08-21 14:07,Other,Massachusetts General Hospital(MGH),1,1,0.73704165
+2024-08-21 15:03,ER,Mission Hospital,1,1,0.6845972
+2024-08-21 15:03,ER,Mission Hospital,1,1,0.86963403
+2024-08-21 15:04,ICU/PCU,Mission Hospital,0,1,0.85183686
+2024-08-21 15:05,med/surgery,Albany Medical Center ,1,1,0.86963403
+2024-08-21 15:05,ICU/PCU,University Hospital,0,0,0.28939918
+2024-08-21 15:05,ICU/PCU,University Hospital,0,0,0.21207814
+2024-08-21 15:05,Telemetry,Mission Hospital,0,1,0.73704165
+2024-08-21 15:09,med/surgery,Wayne UNC Health Care,0,1,0.54105246
+2024-08-21 16:36,med/surgery,Carle Health,1,1,0.7975679
+2024-08-21 16:36,med/surgery,Carle Health,0,1,0.6328291
+2024-08-21 16:37,Other,Carle Health,0,0,0.1064112
+2024-08-21 17:10,Other,MUSC Health Charleston,1,1,0.7975679
+2024-08-21 19:06,Telemetry,The Cleveland Clinic Main Campus,0,0,0.3075999
+2024-08-21 19:07,ER,MUSC Health Charleston,0,1,0.6137203
+2024-08-21 21:50,ER,Brigham & Women's Hospital(BWH),0,0,0.3075999
+2024-08-21 21:50,ICU/PCU,Massachusetts General Hospital(MGH),1,1,0.7975679
+2024-08-21 22:00,med/surgery,Unity Hospital,1,1,0.8436211
+2024-08-22 05:42,Stepdown,Brigham & Women's Hospital(BWH),0,0,0.053534042
+2024-08-22 13:20,ICU/PCU,Mission Hospital,1,1,0.8004481
+2024-08-22 13:20,ICU/PCU,Mission Hospital,0,1,0.6845972
+2024-08-22 13:21,ICU/PCU,Jewish Hospital,0,1,0.9173512
+2024-08-22 15:06,ICU/PCU,MUSC Health Charleston,0,0,0.315153
+2024-08-22 16:43,med/surgery,Hackensack Meridian Health,1,1,0.86963403
+2024-08-22 16:43,ICU/PCU,Hackensack Meridian Health,1,1,0.90273964
+2024-08-22 16:43,ICU/PCU,Hackensack Meridian Health,1,1,0.86963403
+2024-08-22 17:08,Labor/Delivery,Wayne UNC Health Care,1,1,0.90273964
+2024-08-22 19:07,Stepdown,The Cleveland Clinic Main Campus,0,0,0.28939918
+2024-08-22 20:07,ICU/PCU,UW Health University Hospital,1,1,0.80872315
+2024-08-22 20:28,ICU/PCU,Hackensack Meridian Health,1,1,0.80872315
+2024-08-22 20:28,med/surgery,Carle Health,1,1,0.8121513
+2024-08-23 00:21,med/surgery,KSWIC VC Hospitals Wichita,0,1,0.8121513
+2024-08-23 02:27,Other,Carle Health,0,0,0.26885387
+2024-08-23 13:19,ICU/PCU,Mission Hospital,1,1,0.86963403
+2024-08-23 13:19,ER,Albany Medical Center ,1,1,0.86963403
+2024-08-23 13:19,ICU/PCU,Albany Medical Center ,1,1,0.92034924
+2024-08-23 13:20,ICU/PCU,Jewish Hospital,0,1,0.7858571
+2024-08-23 14:31,med/surgery,Carle Health,0,1,0.7858571
+2024-08-23 15:04,ICU/PCU,PHP Miami Valley Hospital,1,1,0.90273964
+2024-08-23 15:12,Telemetry,IL_Trinity Rock Island,1,1,0.90273964
+2024-08-23 15:12,med/surgery,IL_Trinity Rock Island,1,1,0.8004481
+2024-08-23 15:12,med/surgery,IA_St. Luke's Regional Medical Center (RMC),1,1,0.90273964
+2024-08-23 15:12,ER,IA_St. Luke's Regional Medical Center (RMC),1,1,0.8004481
+2024-08-23 16:36,med/surgery,TNNAS ST Rutherford Hospital,0,1,0.8004481
+2024-08-23 16:36,Other,TNNAS ST Rutherford Hospital,1,1,0.90273964
+2024-08-23 17:43,Telemetry,IA_Allen Hospital,0,1,0.7827037
+2024-08-23 17:43,Telemetry,IA_Allen Hospital,1,1,0.7975679
+2024-08-23 17:43,Labor/Delivery,IA_St. Luke's Regional Medical Center (RMC),1,1,0.768957
+2024-08-23 17:43,Telemetry,IA_Allen Hospital,1,1,0.90273964
+2024-08-23 17:43,Telemetry,IA_Allen Hospital,1,1,0.768957
+2024-08-23 17:43,med/surgery,IA_Allen Hospital,0,0,0.3230214
+2024-08-23 17:43,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,1,0.5772158
+2024-08-23 17:44,Other,IA_Iowa Methodist Medical Center (IMMC),0,0,0.104674056
+2024-08-23 18:33,med/surgery,Hackensack Meridian Health,0,0,0.27996466
+2024-08-23 18:34,med/surgery,Hackensack Meridian Health,0,1,0.63651943
+2024-08-23 18:34,Other,Hackensack Meridian Health,0,0,0.47470957
+2024-08-23 20:13,Other,IA_Iowa Methodist Medical Center (IMMC),0,1,0.86963403
+2024-08-23 20:13,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,0,0.27996466
+2024-08-23 20:13,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,0,0.34472176
+2024-08-24 00:31,med/surgery,TNNAS ST Rutherford Hospital,1,1,0.90273964
+2024-08-24 00:31,med/surgery,TNNAS ST Rutherford Hospital,0,1,0.7101134
+2024-08-24 00:32,med/surgery,TNNAS ST Rutherford Hospital,0,1,0.7101134
+2024-08-26 06:41,med/surgery,WellSpan York Hospital,1,1,0.72294796
+2024-08-26 06:41,med/surgery,Albany Medical Center ,1,1,0.92034924
+2024-08-26 06:41,med/surgery,Albany Medical Center ,0,0,0.2640981
+2024-08-26 12:09,med/surgery,Carle Health,0,1,0.8379768
+2024-08-26 14:06,Other,Monument Health,0,1,0.8379768
+2024-08-26 14:36,Other,Monument Health,0,1,0.7827037
+2024-08-26 15:07,ER,Monument Health,1,1,0.90273964
+2024-08-26 19:11,Other,OSF Healthcare,1,1,0.90273964
+2024-08-26 22:31,med/surgery,Hackensack Meridian Health,0,1,0.86963403
+2024-08-26 22:48,Other,Mercy Hospital Springfield ,0,0,0.15757611
+2024-08-26 22:48,Telemetry,Mercy Hospital Springfield ,0,1,0.73704165
+2024-08-26 22:48,ICU/PCU,Jewish Hospital,0,0,0.22851145
+2024-08-26 23:45,LTC,"The Homestead | 418 N Main St, Penn Yan, NY",0,0,0.22324938
+2024-08-27 00:40,ER,IA_Iowa Methodist Medical Center (IMMC),0,0,0.24338944
+2024-08-27 00:40,ER,IA_Iowa Methodist Medical Center (IMMC),0,1,0.96493053
+2024-08-27 09:19,Other,OKTUL St John Medical Center,0,0,0.09186654
+2024-08-27 09:19,Other,OKTUL St John Medical Center,0,1,0.85183686
+2024-08-27 09:19,Telemetry,OKTUL St John Medical Center,1,1,0.72294796
+2024-08-27 10:21,med/surgery,Albany Medical Center ,0,1,0.72294796
+2024-08-27 10:21,med/surgery,Albany Medical Center ,0,1,0.89013207
+2024-08-27 10:21,med/surgery,Albany Medical Center ,0,0,0.104674056
+2024-08-27 10:21,med/surgery,Albany Medical Center ,0,1,0.6845972
+2024-08-27 10:21,med/surgery,Albany Medical Center ,0,1,0.768957
+2024-08-27 10:21,med/surgery,Albany Medical Center ,0,1,0.6845972
+2024-08-27 10:21,med/surgery,Albany Medical Center ,0,0,0.13407832
+2024-08-27 10:21,ICU/PCU,Albany Medical Center ,1,1,0.90273964
+2024-08-27 10:21,ER,Albany Medical Center ,0,0,0.14654921
+2024-08-27 10:21,ER,Albany Medical Center ,0,0,0.26885387
+2024-08-27 10:21,Other,Albany Medical Center ,0,1,0.6845972
+2024-08-27 15:14,med/surgery,OSF Healthcare,1,1,0.90273964
+2024-08-27 15:14,Other,OSF Healthcare,1,1,0.9640604
+2024-08-27 15:14,Other,OSF Healthcare,0,1,0.86963403
+2024-08-27 15:14,Other,OSF Healthcare,0,1,0.72294796
+2024-08-27 15:14,Other,OSF Healthcare,1,1,0.8534824
+2024-08-27 15:14,Other,OSF Healthcare,0,1,0.7858571
+2024-08-27 15:14,Other,OSF Healthcare,0,1,0.89013207
+2024-08-27 15:14,Other,OSF Healthcare,1,1,0.90273964
+2024-08-27 15:14,Stepdown,OSF Healthcare,0,1,0.54105246
+2024-08-27 15:14,Stepdown,OSF Healthcare,0,0,0.4832722
+2024-08-27 15:14,Stepdown,OSF Healthcare,0,1,0.85183686
+2024-08-27 15:14,Stepdown,OSF Healthcare,0,1,0.6137203
+2024-08-27 15:48,LTC,Genesis - West Region,0,0,0.4565548
+2024-08-27 16:35,Other,Hackensack Meridian Health,1,1,0.80872315
+2024-08-27 17:16,med/surgery,TNNAS ST Rutherford Hospital,0,0,0.1968993
+2024-08-27 18:36,Other,Monument Health,0,0,0.32808453
+2024-08-27 20:00,med/surgery, MercyOne Des Moines Medical Center,0,0,0.32808453
+2024-08-27 21:05,Telemetry,The Cleveland Clinic Main Campus,0,0,0.32808453
+2024-08-27 22:06,ER,Monument Health,0,0,0.32808453
+2024-08-27 23:04,med/surgery,Wayne UNC Health Care,0,0,0.38524413
+2024-08-28 01:13,Telemetry,Salem Hospital(NSMC),0,1,0.6583887
+2024-08-28 01:13,med/surgery,KSWIC VC Hospitals Wichita,0,1,0.7975679
+2024-08-28 01:13,med/surgery,KSWIC VC Hospitals Wichita,0,0,0.3075999
+2024-08-28 05:04,ICU/PCU,PHP Miami Valley Hospital,0,0,0.315153
+2024-08-28 10:50,ER,Mission Hospital,0,1,0.768957
+2024-08-28 10:51,ICU/PCU,Mission Hospital,0,1,0.8004481
+2024-08-28 10:51,ICU/PCU,University Hospital,0,1,0.768957
+2024-08-28 15:05,Other,MUSC Health Charleston,0,0,0.3075999
+2024-08-28 16:26,ICU/PCU,TNNAS ST West Hospital,0,1,0.7975679
+2024-08-28 16:26,med/surgery,KSWIC VC Hospitals Wichita,0,1,0.7975679
+2024-08-28 18:36,Telemetry,Lawrence General Hospital,1,1,0.80872315
+2024-08-28 19:05,Other,MUSC Health Charleston,0,1,0.80872315
+2024-08-28 20:07,med/surgery,UW Health University Hospital,0,1,0.80872315
+2024-08-29 00:24,Telemetry,Salem Hospital(NSMC),1,1,0.92034924
+2024-08-29 00:24,Telemetry,Salem Hospital(NSMC),0,1,0.70584106
+2024-08-29 00:25,med/surgery,TNNAS ST West Hospital,1,1,0.92034924
+2024-08-29 00:25,med/surgery,ININD St Vincent Indpls Acute,1,1,0.90273964
+2024-08-29 00:25,ICU/PCU,KSWIC VC Hospitals Wichita,0,0,0.1939915
+2024-08-29 17:12,med/surgery,Sanford Health,0,1,0.80913943
+2024-08-29 17:12,med/surgery,Sanford Health,0,1,0.80913943
+2024-08-29 22:30,med/surgery,Carle Health,0,1,0.5845543
+2024-08-30 00:43,Telemetry,Salem Hospital(NSMC),1,1,0.65755683
+2024-08-30 11:07,ER,Albany Medical Center ,0,1,0.768957
+2024-08-30 11:07,ER,Albany Medical Center ,0,0,0.47165856
+2024-08-30 15:04,Other,IA_Allen Hospital,0,1,0.6476473
+2024-08-30 21:16,med/surgery,Albany Medical Center ,0,1,0.89013207
+2024-08-30 23:40,ICU/PCU,UW Health University Hospital,0,1,0.91003263
+2024-08-31 00:46,ER,Brigham & Women's Hospital(BWH),0,0,0.315153
+2024-09-02 09:10,med/surgery,TNNAS ST West Hospital,0,0,0.315153
+2024-09-02 09:10,med/surgery,KSWIC VC Hospitals Wichita,0,1,0.8263095
+2024-09-02 09:10,med/surgery,KSWIC VC Hospitals Wichita,0,1,0.73261493
+2024-09-02 09:10,med/surgery,KSWIC VC Hospitals Wichita,0,1,0.73261493
+2024-09-02 17:15,med/surgery,Sanford Health,0,1,0.8534824
+2024-09-02 17:15,med/surgery,TNNAS ST West Hospital,0,1,0.7858571
+2024-09-03 15:37,ICU/PCU,Monument Health,1,1,0.92034924
+2024-09-03 17:06,ICU/PCU,MUSC Health Charleston,1,1,0.92034924
+2024-09-03 18:54,ER,IL_Trinity Rock Island,1,1,0.92034924
+2024-09-03 19:54,Other,Hackensack Meridian Health,1,1,0.92034924
+2024-09-03 21:04,med/surgery,MUSC Health Charleston,1,1,0.92034924
+2024-09-03 21:17,med/surgery,Sanford Health,0,1,0.92034924
+2024-09-03 23:56,med/surgery,MVHS Inc.,0,1,0.8534824
+2024-09-04 01:46,ER,KSWIC VC Hospitals Wichita,0,1,0.92034924
+2024-09-04 09:22,ER,Massachusetts General Hospital(MGH),0,1,0.6856952
+2024-09-04 15:07,Stepdown,PHP Miami Valley Hospital,0,1,0.90273964
+2024-09-04 18:03,Other,Carle Health,1,1,0.65755683
+2024-09-04 20:07,ER,UW Health University Hospital,1,1,0.65755683
+2024-09-05 11:09,med/surgery,Albany Medical Center ,1,1,0.65755683
+2024-09-05 19:07,Telemetry,The Cleveland Clinic Main Campus,0,1,0.65755683
+2024-09-05 23:44,ER,UW Health University Hospital,0,1,0.65755683
+2024-09-06 00:45,Other,Salem Hospital(NSMC),0,1,0.65755683
+2024-09-06 00:45,Other,Brigham & Women's Hospital(BWH),0,0,0.4374479
+2024-09-06 14:06,ICU/PCU,Monument Health,0,0,0.4374479
+2024-09-06 16:36,ICU/PCU,Monument Health,0,1,0.65755683
+2024-09-09 07:21,ICU/PCU,Mission Hospital,0,0,0.4374479
+2024-09-09 16:13,ER,Unity Hospital,0,1,0.8002036
+2024-09-10 09:09,Other,Massachusetts General Hospital(MGH),0,0,0.4374479
+2024-09-10 09:10,ICU/PCU,TNNAS ST West Hospital,0,1,0.8381596
+2024-09-11 01:09,med/surgery,TNNAS ST Rutherford Hospital,0,1,0.8004481
+2024-07-01 14:16,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,1,0.80872315
+2024-07-01 18:53,Labor/Delivery,IA_St. Luke's Regional Medical Center (RMC),0,1,0.80913943
+2024-07-01 21:10,med/surgery,Sanford Health,0,1,0.78243816
+2024-07-02 01:40,med/surgery,Hackensack Meridian Health,0,1,0.73704165
+2024-07-02 14:24,Other,Hackensack Meridian Health,0,1,0.5845543
+2024-07-02 14:34,ICU/PCU,Monument Health,0,1,0.7827037
+2024-07-02 16:03,LTC,Genesis - Northeast Region,0,1,0.78243816
+2024-07-02 20:23,Other,Carle Health,0,1,0.73261493
+2024-07-02 20:40,LTC,Genesis - Northeast Region,0,1,0.8436211
+2024-07-05 20:24,med/surgery,IL_Trinity Rock Island,1,1,0.9640604
+2024-07-07 23:01,ICU/PCU,Monument Health,1,1,0.9640604
+2024-07-08 15:07,Other,Northside Hospital Atlanta,0,1,0.54105246
+2024-07-08 18:27,Other,Hackensack Meridian Health,0,1,0.7101134
+2024-07-09 12:44,Other,Carle Health,0,1,0.72294796
+2024-07-09 15:56,ER,WellSpan York Hospital,0,1,0.8379768
+2024-07-09 19:17,Other,Hackensack Meridian Health,0,1,0.6476473
+2024-07-11 14:06,ICU/PCU,Monument Health,0,0,0.15757611
+2024-07-11 21:40,Telemetry,The Cleveland Clinic Main Campus,0,1,0.6583887
+2024-07-16 13:51,Other,Carle Health,0,1,0.9640604
+2024-07-17 15:04,med/surgery,IA_St. Luke's Regional Medical Center (RMC),0,1,0.86555684
+2024-07-17 15:06,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,0,0.25431544
+2024-07-21 16:14,Other,IA_St. Luke's Regional Medical Center (RMC),0,0,0.15757611
+2024-07-22 19:26,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,1,0.8035996
+2024-07-23 15:42,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,1,0.8436211
+2024-07-29 15:58,ER,PHP Miami Valley Hospital,0,1,0.8436211
+2024-07-29 18:07,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,1,0.8121513
+2024-07-29 18:33,Telemetry,IA_St. Luke's Regional Medical Center (RMC),0,1,0.5833066
+2024-07-29 20:09,Other,IA_Allen Hospital,0,1,0.63660395
+2024-07-30 16:01,ICU/PCU,IA_Iowa Methodist Medical Center (IMMC),0,1,0.7611775
+2024-07-31 11:38,med/surgery,IL_Trinity Rock Island,0,1,0.7611775
+2024-07-31 15:25,med/surgery,Massachusetts General Hospital(MGH),0,1,0.7975679
+2024-08-02 13:36,ER,Albany Medical Center ,0,1,0.90273964
+2024-08-05 14:00,Other,Hackensack Meridian Health,0,1,0.90273964
+2024-08-05 15:35,Other,Hackensack Meridian Health,0,1,0.8436211
+2024-08-05 19:19,Stepdown,Hackensack Meridian Health,0,1,0.8534824
+2024-08-06 16:13,ER,IA_Iowa Methodist Medical Center (IMMC),0,1,0.8534824
+2024-08-06 18:32,med/surgery,Carle Health,0,0,0.18624455
+2024-08-06 19:06,ER,Northside Hospital Forsyth,0,1,0.92034924
+2024-08-07 02:21,ICU/PCU,IL_Trinity Rock Island,0,0,0.26885387
+2024-08-08 20:22,med/surgery, MercyOne Des Moines Medical Center,0,0,0.22324938
+2024-08-12 16:53,ICU/PCU,Hackensack Meridian Health,0,1,0.8121513
+2024-08-12 18:03,Other,IA_Iowa Methodist Medical Center (IMMC),0,1,0.9640604
+2024-08-13 19:43,med/surgery,Wayne UNC Health Care,0,1,0.9640604
+2024-08-13 21:57,med/surgery,Carle Health,0,1,0.9640604
+2024-08-13 22:55,Telemetry,IA_Allen Hospital,0,1,0.7611775
+2024-08-14 00:18,med/surgery,Carle Health,0,1,0.8121513
+2024-08-15 00:53,Telemetry,Mercy Hospital Springfield ,0,1,0.9173512
+2024-08-15 13:44,med/surgery,Carle Health,0,0,0.4832722
+2024-08-15 13:52,ER,UW Health University Hospital,0,0,0.104674056
+2024-08-15 13:53,ER,UW Health University Hospital,0,1,0.6328291
+2024-08-15 14:02,Other,IL_Trinity Rock Island,0,1,0.8004481
+2024-08-15 14:35,Telemetry,IA_St. Luke's Regional Medical Center (RMC),0,1,0.606456
+2024-08-15 19:01,med/surgery,Carle Health,0,1,0.7611775
+2024-08-19 21:15,ER,IA_Iowa Methodist Medical Center (IMMC),0,1,0.90512013
+2024-08-20 13:37,med/surgery,Carle Health,0,1,0.5656212
+2024-08-20 14:40,med/surgery,Carle Health,0,0,0.49595368
+2024-08-20 22:23,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,1,0.5772158
+2024-08-21 10:43,Other,Carle Health,0,1,0.86963403
+2024-08-21 14:33,med/surgery,Carle Health,0,0,0.49100396
+2024-08-22 12:35,med/surgery,IL_Trinity Rock Island,0,1,0.90273964
+2024-08-22 17:35,med/surgery,Carle Health,0,1,0.92034924
+2024-08-23 18:00,ER,IA_Iowa Methodist Medical Center (IMMC),0,1,0.73704165
+2024-08-26 13:10,Other,WIMIL CSM Milwaukee Hosp,0,0,0.49100396
+2024-08-27 14:41,med/surgery,Carle Health,0,1,0.732403
+2024-08-27 23:47,med/surgery, MercyOne Des Moines Medical Center,0,0,0.27996466
+2024-08-27 23:53,Other,OKTUL St John Medical Center,0,1,0.9173512
+2024-08-28 14:04,Telemetry,Mercy Hospital Springfield ,0,1,0.9173512
+2024-08-28 16:19,Labor/Delivery,IA_St. Luke's Regional Medical Center (RMC),0,1,0.72294796
+2024-08-29 19:03,med/surgery,IA_Iowa Methodist Medical Center (IMMC),0,1,0.75305337
+2024-08-29 21:21,med/surgery,Carle Health,0,0,0.34472176
+2024-09-03 16:34,Telemetry,IL_Trinity Rock Island,0,1,0.86555684
+2024-09-04 21:52,med/surgery,Carle Health,0,1,0.80872315
