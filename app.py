@@ -8,7 +8,7 @@ import seaborn as sns
 # Load the data
 @st.cache_data
 def load_data():
-    return pd.read_csv("classification//test_predictions_with_dates_and_features.csv")
+    return pd.read_csv("test_predictions_with_dates_and_features.csv")
 
 
 def plot_confusion_matrix(y_true, y_pred, title):
